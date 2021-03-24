@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b4d171d60dd1ef15cfb09c91928b967c:fa9172eb95f37a11111d8bad4663e3ea:50f63d3378cce8b75772b124ef8f7d3c$
+#
+:format=40300
+:texture=Runner.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Runner-hd-1-1;1;1787;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-1-2;253;1787;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-1-3;505;1787;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-1-4;757;1787;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-2-1;1;1525;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-2-2;253;1525;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-2-3;505;1525;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-2-4;757;1525;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-22-1;1;1263;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-22-2;253;1263;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-22-3;505;1263;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-22-4;757;1263;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-33-1;1;1001;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-33-2;253;1001;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-33-3;505;1001;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-33-4;757;1001;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-44-1;1;739;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-44-2;1;477;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-44-3;1;215;250;260; 0.5;0.5; 0;0;0;0
+Runner-hd-44-4;253;739;250;260; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7e09e9f96b2e54e7c4e97a01401283cc:21e95ce7eeb3c1b639faac409374ba8d:9e97771276e6be13641e014bf33ce0a8$
+#
+:format=40300
+:texture=DifficultiesPs4.png
+:size=1320x224
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+lv1;1;1;262;222; 0.5;0.5; 0;0;0;0
+lv2;265;1;262;222; 0.5;0.5; 0;0;0;0
+lv3;529;1;262;222; 0.5;0.5; 0;0;0;0
+lv4;793;1;262;222; 0.5;0.5; 0;0;0;0
+lv5;1057;1;262;222; 0.5;0.5; 0;0;0;0

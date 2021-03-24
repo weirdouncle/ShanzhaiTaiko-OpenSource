@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:a825ff5a74eabd220b6a7f123a4b62fe:210610ff18be443c4f3d80a7b51ab3ae:e640582d6d67c398d9dac614456f6964$
+#
+:format=40300
+:texture=SettingBar.png
+:size=2040x1592
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+bar4_frame;1;4;1292;336; 0.5;0.5; 0;0;0;0
+bar5_frame;1007;1276;1032;132; 0.5;0.5; 0;0;0;0
+bar7_frame;1;342;1280;154; 0.5;0.5; 0;0;0;0
+bar9_frame;1271;1504;651;87; 0.5;0.5; 0;0;0;0
+bar_frame;1;1140;1034;134; 0.5;0.5; 0;0;0;0
+setting_bar1;995;1410;998;92; 0.5;0.5; 0;0;0;0
+setting_bar2;1;1311;1004;97; 0.5;0.5; 0;0;0;0
+setting_bar3;1;1028;1096;110; 0.5;0.5; 0;0;0;0
+setting_bar4;1;628;1240;284; 0.5;0.5; 0;0;0;0
+setting_bar5;1;1410;992;92; 0.5;0.5; 0;0;0;0
+setting_bar6;1;914;1238;112; 0.5;0.5; 0;0;0;0
+setting_bar7;1;498;1254;128; 0.5;0.5; 0;0;0;0
+setting_bar8;631;1517;638;74; 0.5;0.5; 0;0;0;0
+setting_bar9;1;1527;628;64; 0.5;0.5; 0;0;0;0

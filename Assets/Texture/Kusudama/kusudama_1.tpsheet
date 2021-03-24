@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c00f6d31fd87f600b30caab2bd17e048:587594660c1041a32917a393af6940a7:eddf62c69cdc09ce4d9595d364bdfbd7$
+#
+:format=40300
+:texture=kusudama_1.png
+:size=2028x1764
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+action_kusudama_multi_0_0_0_lianda;1;1541;479;222; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_2 6;915;120;1110;320; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 01;482;1324;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 02;939;1324;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 03;1396;1324;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 04;1;883;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 05;458;883;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 06;915;883;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 07;1372;883;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 08;1;442;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 09;458;442;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 10;915;442;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 11;1372;442;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 12;1;1;455;439; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_3 13;458;1;455;439; 0.5;0.5; 0;0;0;0

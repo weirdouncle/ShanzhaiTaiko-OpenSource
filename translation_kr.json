@@ -1,0 +1,596 @@
+{
+  "Table1": [
+    {
+      "key": "adjust drum volume",
+      "translation": "북 볼륨 조절"
+    },
+    {
+      "key": "adjust music volume",
+      "translation": "음악 볼륨 조절"
+    },
+    {
+      "key": "advance or delay the time notes move to the point",
+      "translation": "노트 타이밍을 포인트로 앞당기거나 늦추기"
+    },
+    {
+      "key": "advance or delay the time of judging",
+      "translation": "판정타이밍을 앞당기거나 늦추기"
+    },
+    {
+      "key": "auto play",
+      "translation": "오토 플레이"
+    },
+    {
+      "key": "AutoPlay",
+      "translation": "오토플레이"
+    },
+    {
+      "key": "bad",
+      "translation": "에구"
+    },
+    {
+      "key": "Body",
+      "translation": "코스튬"
+    },
+    {
+      "key": "BodyColor",
+      "translation": "테두리 색"
+    },
+    {
+      "key": "BranchExpert",
+      "translation": "현인"
+    },
+    {
+      "key": "BranchMaster",
+      "translation": "달인"
+    },
+    {
+      "key": "BranchNormal",
+      "translation": "보통"
+    },
+    {
+      "key": "change drum sound or press enter to preview",
+      "translation": "엔터를 눌러서 미리듣기"
+    },
+    {
+      "key": "change game mode",
+      "translation": "게임모드 전환"
+    },
+    {
+      "key": "change score type",
+      "translation": "스코어 타입"
+    },
+    {
+      "key": "change the current branch of the song",
+      "translation": "현재 곡의 난이도를 바꾸기"
+    },
+    {
+      "key": "change the movement speed of notes",
+      "translation": "노트 속도 조절"
+    },
+    {
+      "key": "chapter",
+      "translation": "챕터"
+    },
+    {
+      "key": "Config",
+      "translation": "환경설정"
+    },
+    {
+      "key": "Game Config",
+      "translation": "게임설정"
+    },
+    {
+      "key": "Conig(F1)",
+      "translation": "설정(F1)"
+    },
+    {
+      "key": "Cosplay",
+      "translation": "코스프레"
+    },
+    {
+      "key": "Costume",
+      "translation": "커스텀 룸"
+    },
+    {
+      "key": "current branch",
+      "translation": "현재 난이도"
+    },
+    {
+      "key": "current input:",
+      "translation": "현재 입력："
+    },
+    {
+      "key": "default",
+      "translation": "디폴트"
+    },
+    {
+      "key": "Depend on FPS",
+      "translation": "FPS에 의존함"
+    },
+    {
+      "key": "disable this option to avoid CPU spike",
+      "translation": "CPU 스파이크를 방지하려면 이 설정을 끄세요"
+    },
+    {
+      "key": "Don Chan's room",
+      "translation": "동이의 방"
+    },
+    {
+      "key": "double speed",
+      "translation": "2배속"
+    },
+    {
+      "key": "drum sound",
+      "translation": "북의 음색 변경         "
+    },
+    {
+      "key": "drum volume",
+      "translation": "북 볼륨"
+    },
+    {
+      "key": "Dynamic refresh according to current FPS",
+      "translation": "현재 FPS에 따라 동적을 새로 고침"
+    },
+    {
+      "key": "Emotion",
+      "translation": "얼굴장식"
+    },
+    {
+      "key": "FaceColor",
+      "translation": "얼굴 색"
+    },
+    {
+      "key": "Fixed time step",
+      "translation": "고정 시간 단계"
+    },
+    {
+      "key": "found no replay",
+      "translation": "리플레이를 찾을 수 없음"
+    },
+    {
+      "key": "FullScreen",
+      "translation": "전체화면"
+    },
+    {
+      "key": "game mode",
+      "translation": "게임모드"
+    },
+    {
+      "key": "Game Start",
+      "translation": "게임시작"
+    },
+    {
+      "key": "Gamepad Polling Frequency",
+      "translation": "게임패드 활동 빈도"
+    },
+    {
+      "key": "good",
+      "translation": "좋다"
+    },
+    {
+      "key": "Head",
+      "translation": "머리"
+    },
+    {
+      "key": "hide notes",
+      "translation": "노트 숨김"
+    },
+    {
+      "key": "hits",
+      "translation": "연타"
+    },
+    {
+      "key": "Input Mode",
+      "translation": "입력 모드"
+    },
+    {
+      "key": "judge time adjust(ms)",
+      "translation": "판정선 조정(ms)"
+    },
+    {
+      "key": "judge time(ms)",
+      "translation": "판정（ms）"
+    },
+    {
+      "key": "key config",
+      "translation": "키설정          "
+    },
+    {
+      "key": "left don",
+      "translation": "왼쪽 동"
+    },
+    {
+      "key": "left ka",
+      "translation": "왼쪽 캇"
+    },
+    {
+      "key": "less",
+      "translation": "조금섞기"
+    },
+    {
+      "key": "listning: enter to save esc to resume",
+      "translation": "listning: \\n 엔터로 저장, esc로 돌아가기"
+    },
+    {
+      "key": "max combo",
+      "translation": "최대 콤보"
+    },
+    {
+      "key": "more",
+      "translation": "완전섞기"
+    },
+    {
+      "key": "Music Auto-rectify",
+      "translation": "음원 자동수정"
+    },
+    {
+      "key": "music volume",
+      "translation": "음악 볼륨"
+    },
+    {
+      "key": "nijiro type",
+      "translation": "니이지로 타입"
+    },
+    {
+      "key": "none",
+      "translation": "기본"
+    },
+    {
+      "key": "normal",
+      "translation": "기본"
+    },
+    {
+      "key": "normal speed",
+      "translation": "기본 속도"
+    },
+    {
+      "key": "note position adjust(ms)",
+      "translation": "노트 위치 조정(ms)"
+    },
+    {
+      "key": "note speed",
+      "translation": "노트 속도"
+    },
+    {
+      "key": "old AC type",
+      "translation": "기본 타입"
+    },
+    {
+      "key": "option",
+      "translation": "설정"
+    },
+    {
+      "key": "perfect",
+      "translation": "얼쑤"
+    },
+    {
+      "key": "play again from the beginning",
+      "translation": "처음부터 다시시작"
+    },
+    {
+      "key": "play normally",
+      "translation": "일반플레이"
+    },
+    {
+      "key": "play speed",
+      "translation": "플레이 속도"
+    },
+    {
+      "key": "play with replay",
+      "translation": "리플레이와 함께 시작"
+    },
+    {
+      "key": "player name",
+      "translation": "플레이어 이름           "
+    },
+    {
+      "key": "practice",
+      "translation": "연습모드"
+    },
+    {
+      "key": "press enter to change or save and esc to resume",
+      "translation": "엔터를 눌러서 저장하거나 ESC를 눌러서 계속하기"
+    },
+    {
+      "key": "press 'enter' to config page",
+      "translation": "엔터를 누르면 설정 페이지로 갑니다"
+    },
+    {
+      "key": "press option to add/remove your favorite song",
+      "translation": "게임모드 버튼을 눌러서 좋아하는 곡을 추가/삭제하기"
+    },
+    {
+      "key": "press option to change game setting",
+      "translation": "게임모드 버튼을 누르면 게임모드 변경가능"
+    },
+    {
+      "key": "press←→ or ‘ka’ to change judge time range",
+      "translation": "←→를 누르거나 '캇'를 눌러서 판정선을 조절하기"
+    },
+    {
+      "key": "quadruple speed",
+      "translation": "4배속"
+    },
+    {
+      "key": "Quit",
+      "translation": "종료"
+    },
+    {
+      "key": "quit play",
+      "translation": "연주 종료"
+    },
+    {
+      "key": "random",
+      "translation": "랜덤"
+    },
+    {
+      "key": "reach the maximum number of 30",
+      "translation": "최대 숫자 30에 달성"
+    },
+    {
+      "key": "Record",
+      "translation": "연주 기록"
+    },
+    {
+      "key": "Refresh on fixed time step",
+      "translation": "고정 시간 단계에서 새로 고침하기"
+    },
+    {
+      "key": "remark: judging is looser in easy or normal",
+      "translation": "TIP: 판정은 쉬움이나 보통 난이도에서 좀 더 널널해집니다."
+    },
+    {
+      "key": "repeat",
+      "translation": "반복"
+    },
+    {
+      "key": "repeating a part of the song for practice",
+      "translation": "연습모드에서 구간을 반복하기"
+    },
+    {
+      "key": "replay",
+      "translation": "리플레이"
+    },
+    {
+      "key": "Resolution",
+      "translation": "해상도"
+    },
+    {
+      "key": "restart",
+      "translation": "재시작"
+    },
+    {
+      "key": "resume",
+      "translation": "계속하기"
+    },
+    {
+      "key": "reverse",
+      "translation": "뒤집기"
+    },
+    {
+      "key": "reverse the notes 'don' and 'ka'",
+      "translation": "동과 캇을 바꾸기"
+    },
+    {
+      "key": "right don",
+      "translation": "오른쪽 동"
+    },
+    {
+      "key": "right ka",
+      "translation": "오른쪽 캇"
+    },
+    {
+      "key": "score",
+      "translation": "스코어"
+    },
+    {
+      "key": "score type",
+      "translation": "스코어 타입"
+    },
+    {
+      "key": "set auto play",
+      "translation": "오토 플레이 설정"
+    },
+    {
+      "key": "set total play speed",
+      "translation": "총 플레이속도 조절"
+    },
+    {
+      "key": "SkinColor",
+      "translation": "몸통 색"
+    },
+    {
+      "key": "stealth",
+      "translation": "스텔스"
+    },
+    {
+      "key": "Sub",
+      "translation": "서브 캐릭터"
+    },
+    {
+      "key": "switch current chapter",
+      "translation": "현재 챕터를 바꾸기"
+    },
+    {
+      "key": "Tatoo",
+      "translation": "문신"
+    },
+    {
+      "key": "the notes 'don' and 'ka' randomly change",
+      "translation": "동과 캇을 랜덤으로 바꾸기"
+    },
+    {
+      "key": "triple speed",
+      "translation": "3배속"
+    },
+    {
+      "key": "type shin",
+      "translation": "진타모드"
+    },
+    {
+      "key": "VSync",
+      "translation": "VSync"
+    },
+    {
+      "key": "On",
+      "translation": "On"
+    },
+    {
+      "key": "Off",
+      "translation": "Off"
+    },
+    {
+      "key": "Function",
+      "translation": "기능"
+    },
+    {
+      "key": "start chapter",
+      "translation": "챕터 시작하기"
+    },
+    {
+      "key": "end chapter",
+      "translation": "챕터 끝내기"
+    },
+    {
+      "key": "back",
+      "translation": "돌아가기"
+    },
+    {
+      "key": "show judge result",
+      "translation": "판정 결과 보이기"
+    },
+    {
+      "key": "show the recently 10 results of hit judge",
+      "translation": "최근 10차례의 히트판정을 보이기"
+    },
+    {
+      "key": "special option",
+      "translation": "특별옵션"
+    },
+    {
+      "key": "AllPerfect",
+      "translation": "1불가 시 종료"
+    },
+    {
+      "key": "Training",
+      "translation": "풀콤보 챌린지"
+    },
+    {
+      "key": "DAllPerfect",
+      "translation": "전량 못할시 종료"
+    },
+    {
+      "key": "DTraining",
+      "translation": "전량 챌린지"
+    },
+    {
+      "key": "change the special option",
+      "translation": "특별옵션 바꾸기"
+    },
+    {
+      "key": "quit the game play when get Bad",
+      "translation": "불가를 냈을때 게임종료하기"
+    },
+    {
+      "key": "restart when get Bad",
+      "translation": "불가를 냈을때 재시작하기"
+    },
+    {
+      "key": "quit the game play when get no Perfect",
+      "translation": "전량이 아닐시 게임종료하기"
+    },
+    {
+      "key": "restart when get no Perfect",
+      "translation": "전량이 아닐시 재시작하기"
+    },
+    {
+      "key": "Add or remove favorite",
+      "translation": "좋아하는목록에서 추가하거나 삭제하기"
+    },
+    {
+      "key": "Open options menu",
+      "translation": "설정메뉴 열기"
+    },
+    {
+      "key": "Stretch to full screen",
+      "translation": "전체화면으로 늘리기"
+    },
+    {
+      "key": "Show Dancer",
+      "translation": "댄서 보이기"
+    },
+    {
+      "key": "Play style",
+      "translation": "플레이 스타일"
+    },
+    {
+      "key": "duel mode or special stage will force tranditional style",
+      "translation": "*듀얼모드나 특별스테이지는 기존스타일로 자동변경"
+    },
+    {
+      "key": "TraditionalStyle",
+      "translation": "기존스타일"
+    },
+    {
+      "key": "Ps4Style",
+      "translation": "PS4스타일"
+    },
+    {
+      "key": "game result",
+      "translation": "성적발표"
+    },
+    {
+      "key": "full combo",
+      "translation": "풀콤보"
+    },
+    {
+      "key": "normal clear",
+      "translation": "클리어 성공"
+    },
+    {
+      "key": "meta don clear lines",
+      "translation": "클리어! 훌륭하게 연주했다쿵!"
+    },
+    {
+      "key": "normal clear lines",
+      "translation": "클리어! 훌륭하게 연주했다쿵!"
+    },
+    {
+      "key": "full combo clear lines",
+      "translation": "클리어! 대성공이다쿵!"
+    },
+    {
+      "key": "clear fail lines1",
+      "translation": "실패, 좀더 힘내라쿵!"
+    },
+    {
+      "key": "clear fail  lines2",
+      "translation": "실패, 좀더 힘내라쿵!"
+    },
+	{
+      "key": "Language",
+      "translation": "언어"
+    },
+	{
+      "key": "Chinese",
+      "translation": "中文"
+    },
+	{
+      "key": "English",
+      "translation": "English"
+    },
+	{
+      "key": "Japanese",
+      "translation": "日本語"
+    },
+	{
+      "key": "Korean",
+      "translation": "한글"
+    },
+	{
+      "key": "Spanish",
+      "translation": "Español"
+    },
+  ]
+}

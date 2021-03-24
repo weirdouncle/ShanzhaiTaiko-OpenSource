@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: ed24807c23db12c49b91ffcab0539c68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6046697884583811483
+    second: dancer_unagi2_1 01
+  - first:
+      213: -3109005709417950013
+    second: dancer_unagi2_1 02
+  - first:
+      213: 2369095403308824166
+    second: dancer_unagi2_1 03
+  - first:
+      213: 746044244139068302
+    second: dancer_unagi2_1 04
+  - first:
+      213: 5754364752119392170
+    second: dancer_unagi2_1 05
+  - first:
+      213: -5104936938515753267
+    second: dancer_unagi2_1 06
+  - first:
+      213: -1580376498268725503
+    second: dancer_unagi2_1 07
+  - first:
+      213: -7386840525247534048
+    second: dancer_unagi2_1 08
+  - first:
+      213: -6283835424817456817
+    second: dancer_unagi2_1 09
+  - first:
+      213: -3819163607435770685
+    second: dancer_unagi2_1 10
+  - first:
+      213: 7923389182864809969
+    second: dancer_unagi2_1 11
+  - first:
+      213: -3976648104396545598
+    second: dancer_unagi2_1 12
+  - first:
+      213: -1252596603655362752
+    second: dancer_unagi2_1 13
+  - first:
+      213: 8804397859654215492
+    second: dancer_unagi2_1 14
+  - first:
+      213: 4899656837269969906
+    second: dancer_unagi2_1 15
+  - first:
+      213: -6759905866046707066
+    second: dancer_unagi2_1 16
+  - first:
+      213: -387193636976767688
+    second: dancer_unagi2_1 17
+  - first:
+      213: 5698951948542109708
+    second: dancer_unagi2_1 18
+  - first:
+      213: -8665295880755443431
+    second: dancer_unagi2_1 19
+  - first:
+      213: 712002668503390462
+    second: dancer_unagi2_1 20
+  - first:
+      213: -7336625550286477065
+    second: dancer_unagi2_1 21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dancer_unagi2_1 01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1779
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566a64d8f40d51ca0800000000000000
+      internalID: -6046697884583811483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 02
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1779
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c45b7d87c79ad4d0800000000000000
+      internalID: -3109005709417950013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 03
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1779
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666bb31a7b7b0e020800000000000000
+      internalID: 2369095403308824166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 04
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1779
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b42ae894b7a5a00800000000000000
+      internalID: 746044244139068302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1209
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ea1e014c9bdf40800000000000000
+      internalID: 5754364752119392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 06
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1209
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc69ffac6ee9729b0800000000000000
+      internalID: -5104936938515753267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 07
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1209
+        width: 500
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1151b2ff511ae0800000000000000
+      internalID: -1580376498268725503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 08
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1377
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2920fdabac7990800000000000000
+      internalID: -7386840525247534048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 807
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495dbc69f45bc8a0800000000000000
+      internalID: -6283835424817456817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 807
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c401bf0fea9ffac0800000000000000
+      internalID: -3819163607435770685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 807
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff54dd5b7885fd60800000000000000
+      internalID: 7923389182864809969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 12
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 807
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1a6b44e9b10d8c0800000000000000
+      internalID: -3976648104396545598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 13
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 807
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047e2488602ed9ee0800000000000000
+      internalID: -1252596603655362752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44726e5a4318f2a70800000000000000
+      internalID: 8804397859654215492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 405
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5aca1fe31ff340800000000000000
+      internalID: 4899656837269969906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 405
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae43b2e6dff22a0800000000000000
+      internalID: -6759905866046707066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 405
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d45b8407960aaf0800000000000000
+      internalID: -387193636976767688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 18
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 405
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c086fd45a9eb61f40800000000000000
+      internalID: 5698951948542109708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198ae1ae4faeb780800000000000000
+      internalID: -8665295880755443431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8564797aa81e900800000000000000
+      internalID: 712002668503390462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancer_unagi2_1 21
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8ae11eee11f2a90800000000000000
+      internalID: -7336625550286477065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

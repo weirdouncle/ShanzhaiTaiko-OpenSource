@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:1c19e2488a32b77ea1075cc7ee37ed18:85afb92982aba774325bd3b417904e01:2105c32f603689fbd1f7451c022d750b$
+#
+:format=40300
+:texture=OptionIcon.png
+:size=504x84
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+11;1;43;40;40; 0.5;0.5; 0;0;0;0
+12;43;43;40;40; 0.5;0.5; 0;0;0;0
+13;85;43;40;40; 0.5;0.5; 0;0;0;0
+14;127;43;40;40; 0.5;0.5; 0;0;0;0
+15;169;43;40;40; 0.5;0.5; 0;0;0;0
+auto;211;43;40;40; 0.5;0.5; 0;0;0;0
+d_perfect;253;43;40;40; 0.5;0.5; 0;0;0;0
+d_train;295;43;40;40; 0.5;0.5; 0;0;0;0
+lv1;337;43;40;40; 0.5;0.5; 0;0;0;0
+lv2;379;43;40;40; 0.5;0.5; 0;0;0;0
+lv3;421;43;40;40; 0.5;0.5; 0;0;0;0
+option_icon-5;463;43;40;40; 0.5;0.5; 0;0;0;0
+perfect;1;1;40;40; 0.5;0.5; 0;0;0;0
+practice;43;1;40;40; 0.5;0.5; 0;0;0;0
+random1;85;1;40;40; 0.5;0.5; 0;0;0;0
+random2;127;1;40;40; 0.5;0.5; 0;0;0;0
+replay;169;1;40;40; 0.5;0.5; 0;0;0;0
+reversed;211;1;40;40; 0.5;0.5; 0;0;0;0
+shin;253;1;40;40; 0.5;0.5; 0;0;0;0
+speed1;295;1;40;40; 0.5;0.5; 0;0;0;0
+speed2;337;1;40;40; 0.5;0.5; 0;0;0;0
+speed3;379;1;40;40; 0.5;0.5; 0;0;0;0
+train;421;1;40;40; 0.5;0.5; 0;0;0;0

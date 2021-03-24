@@ -1,0 +1,1000 @@
+{
+  "Table1": [
+    {
+      "key": "adjust drum volume",
+      "translation": "调节鼓声音量"
+    },
+    {
+      "key": "adjust music volume",
+      "translation": "调节歌曲音量"
+    },
+    {
+      "key": "advance or delay the time notes move to the point",
+      "translation": "按←→或“咔”调整音符到达判定点的时间（音符的位置随之变化）"
+    },
+    {
+      "key": "advance or delay the time of judging",
+      "translation": "按←→或“咔”调整判定时间点提前或延后\\n（不改变音符的位置）"
+    },
+    {
+      "key": "auto play",
+      "translation": "自动游玩"
+    },
+    {
+      "key": "AutoPlay",
+      "translation": "自动游玩"
+    },
+    {
+      "key": "bad",
+      "translation": "不可"
+    },
+    {
+      "key": "Body",
+      "translation": "身体"
+    },
+    {
+      "key": "BodyColor",
+      "translation": "身体颜色"
+    },
+    {
+      "key": "BranchExpert",
+      "translation": "玄人"
+    },
+    {
+      "key": "BranchMaster",
+      "translation": "达人"
+    },
+    {
+      "key": "BranchNormal",
+      "translation": "通常"
+    },
+    {
+      "key": "change drum sound or press enter to preview",
+      "translation": "按←→或“咔”调整鼓声的类型，\\n按“咚”或者确定键试听"
+    },
+    {
+      "key": "change game mode",
+      "translation": "设定游戏模式"
+    },
+    {
+      "key": "change score type",
+      "translation": "设定记分模式"
+    },
+    {
+      "key": "change the current branch of the song",
+      "translation": "设定本歌曲谱面分歧"
+    },
+    {
+      "key": "change the movement speed of notes",
+      "translation": "设定音符的移动速度"
+    },
+    {
+      "key": "chapter",
+      "translation": "章节调整"
+    },
+    {
+      "key": "Config",
+      "translation": "系统设置"
+    },
+	{
+      "key": "Game Config",
+      "translation": "游戏设置"
+    },
+    {
+      "key": "Conig(F1)",
+      "translation": "系统设置(F1)"
+    },
+    {
+      "key": "Cosplay",
+      "translation": "布偶装"
+    },
+    {
+      "key": "Costume",
+      "translation": "装扮设置"
+    },
+    {
+      "key": "current branch",
+      "translation": "分歧调整"
+    },
+    {
+      "key": "current input:",
+      "translation": "当前输入："
+    },
+    {
+      "key": "default",
+      "translation": "默认"
+    },
+    {
+      "key": "Depend on FPS",
+      "translation": "依据当前FPS"
+    },
+    {
+      "key": "disable this option to avoid CPU spike",
+      "translation": "如果你没有音乐不同步的问题，请不要开启此选项，以避免FPS波动"
+    },
+    {
+      "key": "Don Chan's room",
+      "translation": "咚酱的试衣间"
+    },
+    {
+      "key": "double speed",
+      "translation": "二倍速"
+    },
+    {
+      "key": "drum sound",
+      "translation": "鼓声选择"
+    },
+    {
+      "key": "drum volume",
+      "translation": "鼓声音量"
+    },
+    {
+      "key": "Dynamic refresh according to current FPS",
+      "translation": "根据当前FPS动态更新，FPS低下时可能存在输入延迟"
+    },
+    {
+      "key": "Emotion",
+      "translation": "表情"
+    },
+    {
+      "key": "FaceColor",
+      "translation": "脸部颜色"
+    },
+    {
+      "key": "Fixed time step",
+      "translation": "固定时间间隔"
+    },
+    {
+      "key": "found no replay",
+      "translation": "录像文件不存在"
+    },
+    {
+      "key": "FullScreen",
+      "translation": "全屏"
+    },
+    {
+      "key": "game mode",
+      "translation": "游戏模式"
+    },
+    {
+      "key": "Game Start",
+      "translation": "开始游戏"
+    },
+    {
+      "key": "Gamepad Polling Frequency",
+      "translation": "外设按键刷新率"
+    },
+    {
+      "key": "good",
+      "translation": "可"
+    },
+    {
+      "key": "Head",
+      "translation": "头部装饰"
+    },
+    {
+      "key": "hide notes",
+      "translation": "隐藏音符显示"
+    },
+    {
+      "key": "hits",
+      "translation": "连打数"
+    },
+    {
+      "key": "Input Mode",
+      "translation": "输入模式"
+    },
+    {
+      "key": "judge time adjust(ms)",
+      "translation": "判定点调整（毫秒）"
+    },
+    {
+      "key": "judge time(ms)",
+      "translation": "判定时间（毫秒）"
+    },
+    {
+      "key": "key config",
+      "translation": "按键设置"
+    },
+    {
+      "key": "left don",
+      "translation": "左咚"
+    },
+    {
+      "key": "left ka",
+      "translation": "左咔"
+    },
+    {
+      "key": "less",
+      "translation": "随性"
+    },
+    {
+      "key": "listning: enter to save esc to resume",
+      "translation": "按键监听中，请输入要设置的按键。\\nEnter确认返回（保存）Esc取消（不保存）"
+    },
+    {
+      "key": "max combo",
+      "translation": "最多连段数"
+    },
+    {
+      "key": "more",
+      "translation": "随意"
+    },
+    {
+      "key": "Music Auto-rectify",
+      "translation": "音乐校准"
+    },
+    {
+      "key": "music volume",
+      "translation": "音乐音量"
+    },
+    {
+      "key": "nijiro type",
+      "translation": "虹版"
+    },
+    {
+      "key": "none",
+      "translation": "无"
+    },
+    {
+      "key": "normal",
+      "translation": "正常"
+    },
+    {
+      "key": "normal speed",
+      "translation": "正常速度"
+    },
+    {
+      "key": "note position adjust(ms)",
+      "translation": "音符位置调整（毫秒）"
+    },
+    {
+      "key": "note speed",
+      "translation": "音符速度"
+    },
+    {
+      "key": "old AC type",
+      "translation": "新/旧框体"
+    },
+    {
+      "key": "option",
+      "translation": "功能/暂停"
+    },
+    {
+      "key": "perfect",
+      "translation": "良"
+    },
+    {
+      "key": "play again from the beginning",
+      "translation": "按右咚可重新游玩当前歌曲"
+    },
+    {
+      "key": "play normally",
+      "translation": "通常演奏"
+    },
+    {
+      "key": "play speed",
+      "translation": "播放速度"
+    },
+    {
+      "key": "play with replay",
+      "translation": "挑战最佳纪录"
+    },
+    {
+      "key": "player name",
+      "translation": "玩家ID"
+    },
+    {
+      "key": "practice",
+      "translation": "练习"
+    },
+    {
+      "key": "press enter to change or save and esc to resume",
+      "translation": "按enter或“咚”设置玩家ID，\\n设置中按Esc取消设置，按Enter保存设置"
+    },
+    {
+      "key": "press 'enter' to config page",
+      "translation": "敲打咚/点击进入设置"
+    },
+    {
+      "key": "press option to add/remove your favorite song",
+      "translation": "按功能/暂停键将歌曲添加或移除收藏夹"
+    },
+    {
+      "key": "press option to change game setting",
+      "translation": "按功能/暂停键开启游戏设置"
+    },
+    {
+      "key": "press←→ or ‘ka’ to change judge time range",
+      "translation": "按←→或“咔”调整判定时间的范围"
+    },
+    {
+      "key": "quadruple speed",
+      "translation": "四倍速"
+    },
+    {
+      "key": "Quit",
+      "translation": "退出游戏"
+    },
+    {
+      "key": "quit play",
+      "translation": "退出游戏"
+    },
+    {
+      "key": "random",
+      "translation": "随机"
+    },
+    {
+      "key": "reach the maximum number of 30",
+      "translation": "收藏夹最多只能保存30首歌曲"
+    },
+    {
+      "key": "Record",
+      "translation": "自我记录"
+    },
+    {
+      "key": "Refresh on fixed time step",
+      "translation": "固定时间间隔更新，依据电脑性能最高每秒200次，最低每秒50次；*高频率会加重电脑运算负荷"
+    },
+    {
+      "key": "remark: judging is looser in easy or normal",
+      "translation": "备注：当游戏难度为简单和普通时，判定时间在此基础上略有放宽"
+    },
+    {
+      "key": "repeat",
+      "translation": "循环设定"
+    },
+    {
+      "key": "repeating a part of the song for practice",
+      "translation": "歌曲会在你设定的章节中循环播放"
+    },
+    {
+      "key": "replay",
+      "translation": "重播最佳纪录"
+    },
+    {
+      "key": "Resolution",
+      "translation": "分辨率"
+    },
+    {
+      "key": "restart",
+      "translation": "从头开始"
+    },
+    {
+      "key": "resume",
+      "translation": "返回游戏"
+    },
+    {
+      "key": "reverse",
+      "translation": "颠倒"
+    },
+    {
+      "key": "reverse the notes 'don' and 'ka'",
+      "translation": "设定咚咔音符反转"
+    },
+    {
+      "key": "right don",
+      "translation": "右咚"
+    },
+    {
+      "key": "right ka",
+      "translation": "右咔"
+    },
+    {
+      "key": "score",
+      "translation": "成绩"
+    },
+    {
+      "key": "score type",
+      "translation": "记分模式"
+    },
+    {
+      "key": "set auto play",
+      "translation": "设定自动游戏"
+    },
+    {
+      "key": "set total play speed",
+      "translation": "调整当前歌曲的播放速度，最低速度为0.5倍。\\n<color=red>*当速度低于1时，歌声会比较怪异</color>"
+    },
+    {
+      "key": "SkinColor",
+      "translation": "鼓皮颜色"
+    },
+    {
+      "key": "stealth",
+      "translation": "隐身"
+    },
+    {
+      "key": "Sub",
+      "translation": "迷你小人"
+    },
+    {
+      "key": "switch current chapter",
+      "translation": "调整当前歌曲的章节位置"
+    },
+    {
+      "key": "Tatoo",
+      "translation": "纹身图"
+    },
+    {
+      "key": "the notes 'don' and 'ka' randomly change",
+      "translation": "设定音符变化"
+    },
+    {
+      "key": "triple speed",
+      "translation": "三倍速"
+    },
+    {
+      "key": "type shin",
+      "translation": "真打"
+    },
+    {
+      "key": "VSync",
+      "translation": "垂直同步"
+    },
+	{
+      "key": "On",
+      "translation": "启用"
+    },
+	{
+      "key": "Off",
+      "translation": "关闭"
+    },
+	{
+      "key": "Function",
+      "translation": "功能开关"
+    },
+	{
+      "key": "start chapter",
+      "translation": "开始章节"
+    },
+	{
+      "key": "end chapter",
+      "translation": "结尾章节"
+    },
+	{
+      "key": "back",
+      "translation": "返回"
+    },
+	{
+      "key": "show judge result",
+      "translation": "显示判定结果"
+    },
+	{
+      "key": "show the recently 10 results of hit judge",
+      "translation": "显示最近10次敲击的判定结果"
+    },
+	{
+      "key": "special option",
+      "translation": "特殊"
+    },
+	{
+      "key": "AllPerfect",
+      "translation": "完美"
+    },
+	{
+      "key": "Training",
+      "translation": "特训"
+    },
+	{
+      "key": "DAllPerfect",
+      "translation": "苛刻"
+    },
+	{
+      "key": "DTraining",
+      "translation": "自虐"
+    },
+	{
+      "key": "change the special option",
+      "translation": "调整特殊选项的设定"
+    },
+	{
+      "key": "quit the game play when get Bad",
+      "translation": "一次不可即退出游戏"
+    },
+	{
+      "key": "restart when get Bad",
+      "translation": "一次不可即从头开始"
+    },
+	{
+      "key": "quit the game play when get no Perfect",
+      "translation": "结果不为良即退出游戏"
+    },
+	{
+      "key": "restart when get no Perfect",
+      "translation": "结果不为良即从头开始"
+    },
+	{
+      "key": "Add or remove favorite",
+      "translation": "将此歌曲添加或移除至收藏夹"
+    },
+	{
+      "key": "Open options menu",
+      "translation": "开启游戏设置"
+    },
+	{
+      "key": "Stretch to full screen",
+      "translation": "强制拉伸画面至全屏"
+    },
+	{
+      "key": "Show Dancer",
+      "translation": "显示舞者"
+    },
+	{
+      "key": "Play style",
+      "translation": "演奏界面风格"
+    },
+	{
+      "key": "duel mode or special stage will force tranditional style",
+      "translation": "双人模式与特殊场景会强制使用传统风格"
+    },
+	{
+      "key": "TraditionalStyle",
+      "translation": "传统"
+    },
+	{
+      "key": "Ps4Style",
+      "translation": "PS4"
+    },
+	{
+      "key": "NijiiroStyle",
+      "translation": "Nijiiro"
+    },
+	{
+      "key": "game result",
+      "translation": "成绩发表"
+    },
+	{
+      "key": "full combo",
+      "translation": "全连段"
+    },
+	{
+      "key": "normal clear",
+      "translation": "通关"
+    },
+	{
+      "key": "meta don clear lines",
+      "translation": "通关，演奏的非常出色！"
+    },
+	{
+      "key": "normal clear lines",
+      "translation": "通关，演奏的非常出色咚！"
+    },
+	{
+      "key": "full combo clear lines",
+      "translation": "通关，大成功咚！"
+    },
+	{
+      "key": "full combo clear2p lines",
+      "translation": "通关，全连段咚！"
+    },
+	{
+      "key": "donderful combo clear lines",
+      "translation": "厉害得一塌糊涂咚！"
+    },
+	{
+      "key": "record update",
+      "translation": "更新最佳成绩！"
+    },
+	{
+      "key": "clear fail lines1",
+      "translation": "就差一点儿，真可惜咚。"
+    },
+	{
+      "key": "clear fail lines2",
+      "translation": "失败，再稍微加把劲咚。"
+    },
+	{
+      "key": "clear fail lines3",
+      "translation": "失败，就差一点儿咚"
+    },
+	{
+      "key": "clear fail lines4",
+      "translation": "失败，下次一定可以咚。"
+    },
+	{
+      "key": "Language",
+      "translation": "语言"
+    },
+	{
+      "key": "Chinese",
+      "translation": "中文"
+    },
+	{
+      "key": "English",
+      "translation": "English"
+    },
+	{
+      "key": "Japanese",
+      "translation": "日本語"
+    },
+	{
+      "key": "Korean",
+      "translation": "한글"
+    },
+	{
+      "key": "Spanish",
+      "translation": "Español"
+    },
+	{
+      "key": "Junior",
+      "translation": "初级"
+    },
+	{
+      "key": "Class10",
+      "translation": "十级"
+    },
+	{
+      "key": "Class9",
+      "translation": "九级"
+    },
+	{
+      "key": "Class8",
+      "translation": "八级"
+    },
+	{
+      "key": "Class7",
+      "translation": "七级"
+    },
+	{
+      "key": "Class6",
+      "translation": "六级"
+    },
+	{
+      "key": "Class5",
+      "translation": "五级"
+    },
+	{
+      "key": "Class4",
+      "translation": "四级"
+    },
+	{
+      "key": "Class3",
+      "translation": "三级"
+    },
+	{
+      "key": "Class2",
+      "translation": "二级"
+    },
+	{
+      "key": "Class1",
+      "translation": "一级"
+    },
+	{
+      "key": "Dan1",
+      "translation": "一段"
+    },
+	{
+      "key": "Dan2",
+      "translation": "二段"
+    },
+	{
+      "key": "Dan3",
+      "translation": "三段"
+    },
+	{
+      "key": "Dan4",
+      "translation": "四段"
+    },
+	{
+      "key": "Dan5",
+      "translation": "五段"
+    },
+	{
+      "key": "Dan6",
+      "translation": "六段"
+    },
+	{
+      "key": "Dan7",
+      "translation": "七段"
+    },
+	{
+      "key": "Dan8",
+      "translation": "八段"
+    },
+	{
+      "key": "Dan9",
+      "translation": "九段"
+    },
+	{
+      "key": "Dan10",
+      "translation": "十段"
+    },
+	{
+      "key": "Kurotou",
+      "translation": "玄人"
+    },
+	{
+      "key": "Meijin",
+      "translation": "名人"
+    },
+	{
+      "key": "Choujin",
+      "translation": "超人"
+    },
+	{
+      "key": "Tatsujin",
+      "translation": "达人"
+    },
+	{
+      "key": "Extension",
+      "translation": "外传"
+    },
+	{
+      "key": "MurasakiVersion",
+      "translation": "紫版"
+    },
+	{
+      "key": "WhiteVersion",
+      "translation": "白版"
+    },
+	{
+      "key": "RedVersion",
+      "translation": "红版"
+    },
+	{
+      "key": "YellowVersion",
+      "translation": "黄版"
+    },
+	{
+      "key": "BlueVersion",
+      "translation": "蓝版"
+    },
+	{
+      "key": "GreenVersion",
+      "translation": "绿版"
+    },
+	{
+      "key": "NijiiroVersion",
+      "translation": "虹版"
+    },
+	{
+      "key": "Clear conditions",
+      "translation": "合格条件"
+    },
+	{
+      "key": "DanClear",
+      "translation": "合格"
+    },
+	{
+      "key": "bad less than {0}",
+      "translation": "“不可”低于 {0}"
+    },
+	{
+      "key": "hits count at least {0}",
+      "translation": "打数至少 {0}"
+    },
+	{
+      "key": "drumrolls at least {0}",
+      "translation": "连打数至少 {0}"
+    },
+	{
+      "key": "gauge at least {0}%",
+      "translation": "魂槽至少 {0}%"
+    },
+	{
+      "key": "at least {0}%",
+      "translation": "至少 {0}%"
+    },
+	{
+      "key": "good less than {0}",
+      "translation": "“可”少于 {0}"
+    },
+	{
+      "key": "max combo at least {0}",
+      "translation": "最大连段数至少 {0}"
+    },
+	{
+      "key": "perfect at least {0}",
+      "translation": "“良”至少 {0}"
+    },
+	{
+      "key": "score at least {0}",
+      "translation": "分数至少 {0}"
+    },
+	{
+      "key": "notes left",
+      "translation": "音符剩余"
+    },
+	{
+      "key": "first song",
+      "translation": "第一曲"
+    },
+	{
+      "key": "second song",
+      "translation": "第二曲"
+    },
+	{
+      "key": "third song",
+      "translation": "第三曲"
+    },
+	{
+      "key": "total {0}",
+      "translation": "全{0}曲"
+    },
+	{
+      "key": "best record",
+      "translation": "最佳纪录"
+    },
+	{
+      "key": "bad number",
+      "translation": "不可数"
+    },
+	{
+      "key": "hits count",
+      "translation": "打数"
+    },
+	{
+      "key": "drumrolls",
+      "translation": "连打数"
+    },
+	{
+      "key": "tamashii gauge",
+      "translation": "魂槽"
+    },
+	{
+      "key": "good number",
+      "translation": "可数"
+    },
+	{
+      "key": "perfect number",
+      "translation": "良数"
+    },
+	{
+      "key": "at least {0}",
+      "translation": "至少 {0}"
+    },
+	{
+      "key": "less than {0}",
+      "translation": "低于 {0}"
+    },
+	{
+      "key": "RankingDojo Result",
+      "translation": "段位道场 结果发表"
+    },
+	{
+      "key": "RankingDojo",
+      "translation": "段位道场"
+    },
+    {
+      "key": "1.1 speed",
+      "translation": "1.1倍速"
+    },
+    {
+      "key": "1.2 speed",
+      "translation": "1.2倍速"
+    },
+    {
+      "key": "1.3 speed",
+      "translation": "1.3倍速"
+    },
+    {
+      "key": "1.4 speed",
+      "translation": "1.4倍速"
+    },
+    {
+      "key": "1.5 speed",
+      "translation": "1.5倍速"
+    },
+    {
+      "key": "JPop",
+      "translation": "流行音乐"
+    },
+    {
+      "key": "Animation",
+      "translation": "卡通動畫音樂"
+    },
+    {
+      "key": "Vocaloid",
+      "translation": "VOCALOID乐曲"
+    },
+    {
+      "key": "Childrens",
+      "translation": "童谣"
+    },
+    {
+      "key": "Variety",
+      "translation": "综合音乐"
+    },
+    {
+      "key": "Classic",
+      "translation": "古典音樂"
+    },
+    {
+      "key": "Gamemusic",
+      "translation": "遊戲音樂"
+    },
+    {
+      "key": "NamcoOriginal",
+      "translation": "NAMCO原创音乐"
+    },
+    {
+      "key": "Search",
+      "translation": "搜索歌曲"
+    },
+    {
+      "key": "Preset Manage",
+      "translation": "预设套装管理"
+    },
+    {
+      "key": "OpenMenu",
+      "translation": "打开"
+    },
+    {
+      "key": "Fold",
+      "translation": "收起"
+    },
+    {
+      "key": "Load",
+      "translation": "载入预设"
+    },
+    {
+      "key": "Save",
+      "translation": "保存为预设"
+    },
+    {
+      "key": "press option button to save current set, and press enter to load preset",
+      "translation": "按下‘功能键’保存当前为预设套装，按下‘确定/回车’读取已保存的预设套装"
+    },
+    {
+      "key": "Preset",
+      "translation": "预设套装"
+    },
+    {
+      "key": "confirm",
+      "translation": "确定"
+    },    
+	{
+      "key": "Pick a song randomly (F2)",
+      "translation": "随机选曲(F2)"
+    },
+	{
+      "key": "controller",
+      "translation": "控制器"
+    },
+	{
+      "key": "keyboard",
+      "translation": "键盘"
+    },
+	{
+      "key": "peripheral",
+      "translation": "外设"
+    },
+	{
+      "key": "direction",
+      "translation": "方向"
+    },
+	{
+      "key": "confirm",
+      "translation": "确定"
+    },
+	{
+      "key": "cancel",
+      "translation": "取消"
+    },
+	{
+      "key": "find no song:",
+      "translation": "找不到以下歌曲："
+    },
+	{
+      "key": "Hardware Outline",
+      "translation": "硬件描边"
+    },
+	{
+      "key": " etc",
+      "translation": "等等"
+    },
+	{
+      "key": " total {0} songs",
+      "translation": "总计{0}首曲子"
+    },
+	{
+      "key": "no song",
+      "translation": "无曲目"
+    },
+	{
+      "key": "recently played",
+      "translation": "最近游玩"
+    },
+  ]
+}

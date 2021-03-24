@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:463c6f6bd9d04a2427f8c0103a975a50:14b85f7ffa10762e37606b85f15db639:40a5c148a84a6a90cac1f852e281c2f8$
+#
+:format=40300
+:texture=cos_room.png
+:size=1376x1236
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+arrow_down;1029;722;171;137; 0.5;0.5; 0;0;0;0
+arrow_up;1202;722;171;137; 0.5;0.5; 0;0;0;0
+bg;194;4;1070;716; 0.5;0.5; 0;0;0;0
+button_focus;240;1163;982;72; 0.5;0.5; 0;0;0;0
+button_frame1;1;1009;988;78; 0.5;0.5; 0;0;0;0
+button_frame2;1;743;1026;116; 0.5;0.5; 0;0;0;0
+button_selected;181;1183;57;52; 0.5;0.5; 0;0;0;0
+button_unfocus;1;1089;982;72; 0.5;0.5; 0;0;0;0
+lable_body;1103;975;112;112; 0.5;0.5; 0;0;0;0
+lable_bodycolor;1217;975;112;112; 0.5;0.5; 0;0;0;0
+lable_bodyskin;1;861;112;112; 0.5;0.5; 0;0;0;0
+lable_cos;115;861;112;112; 0.5;0.5; 0;0;0;0
+lable_emotion;229;861;112;112; 0.5;0.5; 0;0;0;0
+lable_face;343;861;112;112; 0.5;0.5; 0;0;0;0
+lable_head;457;861;112;112; 0.5;0.5; 0;0;0;0
+lable_selected;1;578;165;142; 0.5;0.5; 0;0;0;0
+lable_sub;571;861;112;112; 0.5;0.5; 0;0;0;0
+lable_tatoo;991;977;110;110; 0.5;0.5; 0;0;0;0
+numbers;1;1192;178;43; 0.5;0.5; 0;0;0;0
+scroll_bar;168;120;24;600; 0.5;0.5; 0;0;0;0

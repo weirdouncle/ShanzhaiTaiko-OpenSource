@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8378791403912834566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8378791403912834567}
+  - component: {fileID: 8378791403912834565}
+  m_Layer: 0
+  m_Name: Dancer1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8378791403912834567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378791403912834566}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8378791405013779101}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8378791403912834565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378791403912834566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29bddc6f0956c2944a36d9bc19e6816d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Dancer_pres:
+  - {fileID: 9122786628520535706, guid: 5a454ac36da39d844a71d618c01b2568, type: 3}
+  - {fileID: 6460075041977723981, guid: bc547c9e57fdc6e489be9f37118a086f, type: 3}
+  - {fileID: 5955609092799788167, guid: 7a80670afcb9e6745b503c0720bb9854, type: 3}
+  - {fileID: 2240475637643144283, guid: 1258215f05c495c409fc985d70184fb2, type: 3}
+  Dancer_a_pres:
+  - {fileID: 2602308817714069865, guid: 888b2515d0c03c64e8a6621d3f21bef9, type: 3}
+  - {fileID: 376028022047380936, guid: 46f5533d816c8e04aa0206e864b51bf1, type: 3}
+  - {fileID: 3161584356709911288, guid: fa8a870816f6b934393cd2ed527e6ea0, type: 3}
+  - {fileID: 3377476488870838672, guid: ae28c2831b4bad04494ee98105fca3fa, type: 3}
+  ApearParent: {fileID: 8378791405013779101}
+  Vectors:
+  - {x: 0, y: -3.14, z: 0}
+  - {x: -3.15, y: -3.14, z: 0}
+  - {x: 3.15, y: -3.14, z: 0}
+  - {x: -6.375, y: -3.14, z: 0}
+  - {x: 6.375, y: -3.14, z: 0}
+  Suit4Nijiiro: 1
+--- !u!1 &8378791405013779100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8378791405013779101}
+  m_Layer: 0
+  m_Name: Apear
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8378791405013779101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8378791405013779100}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8378791403912834567}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

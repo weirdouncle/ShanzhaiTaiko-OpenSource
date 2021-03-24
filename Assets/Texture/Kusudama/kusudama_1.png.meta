@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 167b16edb3f75c24e9c9caf22efc330d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2224656547901471692
+    second: action_kusudama_multi_0_0_0_lianda
+  - first:
+      213: -623310779239752200
+    second: action_kusudama_multi_2 6
+  - first:
+      213: 4501522988480617587
+    second: action_kusudama_multi_3 01
+  - first:
+      213: -2809558430290002509
+    second: action_kusudama_multi_3 02
+  - first:
+      213: -1489522703197051423
+    second: action_kusudama_multi_3 03
+  - first:
+      213: 2170368932147426106
+    second: action_kusudama_multi_3 04
+  - first:
+      213: -5575453136916828319
+    second: action_kusudama_multi_3 05
+  - first:
+      213: -6606376058192860330
+    second: action_kusudama_multi_3 06
+  - first:
+      213: 509115827309622589
+    second: action_kusudama_multi_3 07
+  - first:
+      213: 326758943882437057
+    second: action_kusudama_multi_3 08
+  - first:
+      213: 8284605858839324611
+    second: action_kusudama_multi_3 09
+  - first:
+      213: 5495708220370923657
+    second: action_kusudama_multi_3 10
+  - first:
+      213: -7161968228827088310
+    second: action_kusudama_multi_3 11
+  - first:
+      213: 7473301442358086842
+    second: action_kusudama_multi_3 12
+  - first:
+      213: 7498785223992804780
+    second: action_kusudama_multi_3 13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: action_kusudama_multi_0_0_0_lianda
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1541
+        width: 479
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434061b08ae6021e0800000000000000
+      internalID: -2224656547901471692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_2 6
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 120
+        width: 1110
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1eb2162e8957f0800000000000000
+      internalID: -623310779239752200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 01
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1324
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c54a4de4f987e30800000000000000
+      internalID: 4501522988480617587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 02
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1324
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd3cda4e717209d0800000000000000
+      internalID: -2809558430290002509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 03
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1324
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e56f074ef6245be0800000000000000
+      internalID: -1489522703197051423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 883
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f0307b03be1e10800000000000000
+      internalID: 2170368932147426106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 05
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 883
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f2c3879e200a2b0800000000000000
+      internalID: -5575453136916828319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 06
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be4c62aff6154a0800000000000000
+      internalID: -6606376058192860330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 07
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 883
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b154c52eb01700800000000000000
+      internalID: 509115827309622589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c16b493781e88400800000000000000
+      internalID: 326758943882437057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 09
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 442
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ec388225d8f270800000000000000
+      internalID: 8284605858839324611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 10
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 442
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9803768428da44c40800000000000000
+      internalID: 5495708220370923657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 11
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 442
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab02477d39b9c90800000000000000
+      internalID: -7161968228827088310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc0b2b011086b760800000000000000
+      internalID: 7473301442358086842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: action_kusudama_multi_3 13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1
+        width: 455
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca50a035e69011860800000000000000
+      internalID: 7498785223992804780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:75ab96bdbd1e9118032847c218b4deff:d1215f36d1be70bedeb57a106869b79c:792c790f717e2c5f306b2cadeda8d154$
+#
+:format=40300
+:texture=kusudama_0.png
+:size=1964x1828
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+action_kusudama_multi_4 07;375;1515;336;312; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 08;713;1515;336;312; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 09;1051;1488;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 10;1353;1488;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 11;1655;1488;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 12;1;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 13;303;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 14;605;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 15;907;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 16;1209;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 17;1511;1147;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 18;1;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 19;303;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 20;605;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 21;907;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 22;1209;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 23;1511;806;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_4 24;1;465;300;339; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 0;303;404;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 1;635;404;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 2;967;404;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 3;1299;404;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 4;1631;404;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 5;1;2;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 6;333;2;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 7;665;2;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 8;997;2;330;400; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_5 9;1329;2;330;400; 0.5;0.5; 0;0;0;0
+note;101;1554;272;273; 0.5;0.5; 0;0;0;0
+star;1;1733;98;94; 0.5;0.5; 0;0;0;0

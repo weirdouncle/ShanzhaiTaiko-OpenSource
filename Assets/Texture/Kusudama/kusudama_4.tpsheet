@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:04952d70ef9c4c40a968301ead5d9476:d4614690c60900915f17491c59a4245c:e8ed5b89cb7d582440c081a08dae2189$
+#
+:format=40300
+:texture=kusudama_4.png
+:size=7000x7448
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+action_kusudama_0_0_0_0;1;4967;2896;2480; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_1;2899;4967;2896;2480; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_2;1;2485;2896;2480; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_3;2899;2485;2896;2480; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_4;1;3;2896;2480; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_5;2899;435;2048;2048; 0.5;0.5; 0;0;0;0
+action_kusudama_multi_0_0_0_6;4949;435;2048;2048; 0.5;0.5; 0;0;0;0

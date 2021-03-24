@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f97cab2b8fb410bc4360d14813459939:446a43babe918c5d36f33acefa7aa50f:c80abf53cadf8b9cb0494ce2c79b5904$
+#
+:format=40300
+:texture=config_key.png
+:size=804x336
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+config_button;532;4;270;272; 0.5;0.5; 0;0;0;0
+frame;1;278;241;57; 0.5;0.5; 0;0;0;0
+key1;244;278;241;57; 0.5;0.5; 0;0;0;0
+key2;487;278;241;57; 0.5;0.5; 0;0;0;0
+key3;1;184;529;92; 0.5;0.5; 0;0;0;0

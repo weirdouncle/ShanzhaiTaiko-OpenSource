@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1876202885019070788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1876202885019070907}
+  - component: {fileID: 1876202885019070906}
+  m_Layer: 5
+  m_Name: Runner1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1876202885019070907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876202885019070788}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1876202885019070906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876202885019070788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b59bc0d0ec5c54a8687d527b8c6574, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bad_pre: {fileID: 2112350025215015336, guid: 0b7c9572ff574304b99d53fe8cd56274, type: 3}
+  Goods:
+  - {fileID: 6758486956730408303, guid: 7134f172a0d79b04f80e6e1bb1d471cd, type: 3}
+  - {fileID: 6758486956730408303, guid: 342896630734451449ea1a6a48d752e3, type: 3}
+  - {fileID: 6758486956730408303, guid: d7bd52e7c1768a048a5468231d9560ea, type: 3}
+  - {fileID: 6758486956730408303, guid: 4f6682ceee6b9d9449daceb58e45f8ba, type: 3}
+  Pools: 20

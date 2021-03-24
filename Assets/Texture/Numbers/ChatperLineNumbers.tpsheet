@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:39bc4011c06893a39ef2be2c2baac680:62d48ecea183f917a8510c7d61a9815d:486013632fd03e008977051abbaab274$
+#
+:format=40300
+:texture=ChatperLineNumbers.png
+:size=52x172
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+0;1;139;24;32; 0.5;0.5; 0;0;0;0
+1;27;139;24;32; 0.5;0.5; 0;0;0;0
+2;1;105;24;32; 0.5;0.5; 0;0;0;0
+3;27;105;24;32; 0.5;0.5; 0;0;0;0
+4;1;71;24;32; 0.5;0.5; 0;0;0;0
+5;27;71;24;32; 0.5;0.5; 0;0;0;0
+6;1;37;24;32; 0.5;0.5; 0;0;0;0
+7;27;37;24;32; 0.5;0.5; 0;0;0;0
+8;1;3;24;32; 0.5;0.5; 0;0;0;0
+9;27;3;24;32; 0.5;0.5; 0;0;0;0

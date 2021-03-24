@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7e23f80d8228cae3d56c40e566492c96:ad2ed456b6b9bda97b1dc34664f94d6c:c5b10132107f377cb28a86c7f6e1cd27$
+#
+:format=40300
+:texture=stage_icon.png
+:size=1240x116
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+doraemon_icon;1;3;97;112; 0.5;0.5; 0;0;0;0
+gumi_icon;100;3;112;112; 0.5;0.5; 0;0;0;0
+ia_icon;214;3;112;112; 0.5;0.5; 0;0;0;0
+idol_coin;328;3;112;112; 0.5;0.5; 0;0;0;0
+imcg_icon;442;3;112;112; 0.5;0.5; 0;0;0;0
+imml_icon;556;3;112;112; 0.5;0.5; 0;0;0;0
+lovelive_icon;670;3;112;112; 0.5;0.5; 0;0;0;0
+lyrics_icon;784;3;112;112; 0.5;0.5; 0;0;0;0
+mario_icon;898;3;112;112; 0.5;0.5; 0;0;0;0
+miku_icon;1012;3;112;112; 0.5;0.5; 0;0;0;0
+toho_icon;1126;3;112;112; 0.5;0.5; 0;0;0;0

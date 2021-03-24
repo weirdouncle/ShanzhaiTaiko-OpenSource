@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:04f6c4c83e03b55aeb76f2e95afe18c6:718a459a0bb9441957309c4fe74bb41b:52fbbc3db7769e23bbce8a093000c72b$
+#
+:format=40300
+:texture=Max.png
+:size=2048x4096
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+fever_a_01 1;1;1495;900;529; 0.5;0.5; 0;0;0;0
+fever_a_01 2;903;1495;900;529; 0.5;0.5; 0;0;0;0
+fever_a_02 1;1;2026;905;529; 0.5;0.5; 0;0;0;0
+fever_a_02 2;908;2026;905;529; 0.5;0.5; 0;0;0;0
+fever_b_01 01;1;3327;983;768; 0.5;0.5; 0;0;0;0
+fever_b_01 02;986;3327;983;768; 0.5;0.5; 0;0;0;0
+fever_b_01 03;1;2557;983;768; 0.5;0.5; 0;0;0;0
+fever_b_01 04;986;2557;983;768; 0.5;0.5; 0;0;0;0

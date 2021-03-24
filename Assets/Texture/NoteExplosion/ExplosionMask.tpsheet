@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:42a1466187a13e3d62a7cbf3fbe784c1:53c4bfa809d876b6d8a69fb15780f4b4:a1eade159e51a864a4b7986028f3ae48$
+#
+:format=40300
+:texture=ExplosionMask.png
+:size=452x228
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+exp_1;1;79;148;148; 0.5;0.5; 0;0;0;0
+exp_2;151;79;148;148; 0.5;0.5; 0;0;0;0
+exp_3;301;79;148;148; 0.5;0.5; 0;0;0;0
+mask;1;2;74;75; 0.5;0.5; 0;0;0;0

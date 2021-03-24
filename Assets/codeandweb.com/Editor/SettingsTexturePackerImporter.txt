@@ -1,0 +1,162 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Texture/Difficulties.tpsheet
+- Assets/Resources/Texture/DifficultiesPs4.tpsheet
+- Assets/Resources/Texture/localization.tpsheet
+- Assets/Resources/Texture/senotes.tpsheet
+- Assets/Texture/BackGround/Clear/Clear1.tpsheet
+- Assets/Texture/BackGround/Foot/foot.tpsheet
+- Assets/Texture/BackGround/Max/Max.tpsheet
+- Assets/Texture/BackGround/Up/up_bg_1.tpsheet
+- Assets/Texture/CosRoom/cos_room.tpsheet
+- Assets/Texture/Dancer/Type1/dancer_unagi2_01.tpsheet
+- Assets/Texture/Dancer/Type1/dancer_unagi2_02.tpsheet
+- Assets/Texture/Dancer/Type1/dancer_unagi2_03.tpsheet
+- Assets/Texture/Dancer/Type1/dancer_unagi2_04.tpsheet
+- Assets/Texture/GameUI/Chinese_UI.tpsheet
+- Assets/Texture/GameUI/Lane.tpsheet
+- Assets/Texture/GameUI/main_plate.tpsheet
+- Assets/Texture/GameUI/Numbers.tpsheet
+- Assets/Texture/GameUI/OptionIcon.tpsheet
+- Assets/Texture/GameUI/Practice.tpsheet
+- Assets/Texture/GameUI/Rapid&Bonus.tpsheet
+- Assets/Texture/GaugeBar/GaugeBar.tpsheet
+- Assets/Texture/GogoFire.tpsheet
+- Assets/Texture/Kusudama/Hammer.tpsheet
+- Assets/Texture/Kusudama/kusudama_0.tpsheet
+- Assets/Texture/Kusudama/kusudama_1.tpsheet
+- Assets/Texture/Kusudama/kusudama_3.tpsheet
+- Assets/Texture/Kusudama/kusudama_4.tpsheet
+- Assets/Texture/Kusudama/kusudama_5.tpsheet
+- Assets/Texture/Loading/loading.tpsheet
+- Assets/Texture/NoteExplosion/ExplosionMask.tpsheet
+- Assets/Texture/NoteExplosion/hit_effect.tpsheet
+- Assets/Texture/NoteExplosion/hit_effect_old.tpsheet
+- Assets/Texture/NoteExplosion/rainbow.tpsheet
+- Assets/Texture/Notes/Notes.tpsheet
+- Assets/Texture/Numbers/ChatperLineNumbers.tpsheet
+- Assets/Texture/Ps4/others.tpsheet
+- Assets/Texture/RankingDojo/course.tpsheet
+- Assets/Texture/RapitHitEffect/RapitHitEffect.tpsheet
+- Assets/Texture/Result/result_notice.tpsheet
+- Assets/Texture/Runner/Runner.tpsheet
+- Assets/Texture/Setting/config_key.tpsheet
+- Assets/Texture/Setting/Option.tpsheet
+- Assets/Texture/Setting/preset.tpsheet
+- Assets/Texture/Setting/Setting.tpsheet
+- Assets/Texture/Setting/SettingBar 1.tpsheet
+- Assets/Texture/Setting/SettingBar.tpsheet
+- Assets/Texture/SongSelect/loading.tpsheet
+- Assets/Texture/SongSelect/song_info.tpsheet
+- Assets/Texture/SongSelect/stage_icon.tpsheet
+- Assets/Texture/Splash.tpsheet
+- Assets/Texture/Vertical/vertical_pics.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Texture/Difficulties.png
+- Assets/Resources/Texture/DifficultiesPs4.png
+- Assets/Resources/Texture/localization.png
+- Assets/Resources/Texture/senotes.png
+- Assets/Texture/BackGround/Clear/Clear1.png
+- Assets/Texture/BackGround/Foot/foot.png
+- Assets/Texture/BackGround/Max/Max.png
+- Assets/Texture/BackGround/Up/up_bg_1.png
+- Assets/Texture/CosRoom/cos_room.png
+- Assets/Texture/Dancer/Type1/dancer_unagi2_01.png
+- Assets/Texture/Dancer/Type1/dancer_unagi2_02.png
+- Assets/Texture/Dancer/Type1/dancer_unagi2_03.png
+- Assets/Texture/Dancer/Type1/dancer_unagi2_04.png
+- Assets/Texture/GameUI/Chinese_UI.png
+- Assets/Texture/GameUI/Lane.png
+- Assets/Texture/GameUI/main_plate.png
+- Assets/Texture/GameUI/Numbers.png
+- Assets/Texture/GameUI/OptionIcon.png
+- Assets/Texture/GameUI/Practice.png
+- Assets/Texture/GameUI/Rapid&Bonus.png
+- Assets/Texture/GaugeBar/GaugeBar.png
+- Assets/Texture/GogoFire.png
+- Assets/Texture/Kusudama/Hammer.png
+- Assets/Texture/Kusudama/kusudama_0.png
+- Assets/Texture/Kusudama/kusudama_1.png
+- Assets/Texture/Kusudama/kusudama_3.png
+- Assets/Texture/Kusudama/kusudama_4.png
+- Assets/Texture/Kusudama/kusudama_5.png
+- Assets/Texture/Loading/loading.png
+- Assets/Texture/NoteExplosion/ExplosionMask.png
+- Assets/Texture/NoteExplosion/hit_effect.png
+- Assets/Texture/NoteExplosion/hit_effect_old.png
+- Assets/Texture/NoteExplosion/rainbow.png
+- Assets/Texture/Notes/Notes.png
+- Assets/Texture/Numbers/ChatperLineNumbers.png
+- Assets/Texture/Ps4/others.png
+- Assets/Texture/RankingDojo/Course.png
+- Assets/Texture/RapitHitEffect/RapitHitEffect.png
+- Assets/Texture/Result/result_notice.png
+- Assets/Texture/Runner/Runner.png
+- Assets/Texture/Setting/config_key.png
+- Assets/Texture/Setting/Option.png
+- Assets/Texture/Setting/preset.png
+- Assets/Texture/Setting/Setting.png
+- Assets/Texture/Setting/SettingBar.png
+- Assets/Texture/Setting/SettingBar.png
+- Assets/Texture/SongSelect/loading.png
+- Assets/Texture/SongSelect/song_info.png
+- Assets/Texture/SongSelect/stage_icon.png
+- Assets/Texture/Splash.png
+- Assets/Texture/Vertical/vertical_pics.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c25732280661645f017a2cb85dfede8a:12c29b5a8a3b24c07e4b74e0fdadb4f7:a789e3e3725d45ed04467de279d1d076$
+#
+:format=40300
+:texture=rainbow.png
+:size=1908x916
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+onp_kiseki_katsu_1p_0_0_0_1-0;1;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-1;259;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-2;517;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-3;775;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-4;1033;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-5;1291;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-6;1549;659;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-7;1;401;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_1-8;259;401;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_2-0;517;401;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_2-1;775;401;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_2-2;1033;401;256;256; 0.5;0.5; 0;0;0;0
+onp_kiseki_katsu_1p_0_0_0_2-3;1291;401;256;256; 0.5;0.5; 0;0;0;0
+rainbow;1;4;952;395; 0.5;0.5; 0;0;0;0
+rainbow_mask;955;4;952;395; 0.5;0.5; 0;0;0;0

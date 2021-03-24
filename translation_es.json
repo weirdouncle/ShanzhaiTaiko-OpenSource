@@ -1,0 +1,956 @@
+{
+  "Table1": [
+    {
+      "key": "adjust drum volume",
+      "translation": "Ajustar el volumen del tambor"
+    },
+    {
+      "key": "adjust music volume",
+      "translation": "Ajustar el volumen de la musica"
+    },
+    {
+      "key": "advance or delay the time notes move to the point",
+      "translation": "Avanza o retrasa las notas en el momento en el que se mueven al punto"
+    },
+    {
+      "key": "advance or delay the time of judging",
+      "translation": "Adelanta o retrasa el tiempo de respuesta"
+    },
+    {
+      "key": "auto play",
+      "translation": "Juego Automatico"
+    },
+    {
+      "key": "AutoPlay",
+      "translation": "Juego Automatico"
+    },
+    {
+      "key": "bad",
+      "translation": "Mal"
+    },
+    {
+      "key": "body",
+      "translation": "Ropa"
+    },
+    {
+      "key": "BodyColor",
+      "translation": "Color del cuerpo"
+    },
+    {
+      "key": "BranchExpert",
+      "translation": "Experto"
+    },
+    {
+      "key": "BranchMaster",
+      "translation": "Maestro"
+    },
+    {
+      "key": "BranchNormal",
+      "translation": "Normal"
+    },
+    {
+      "key": "change drum sound or press enter to preview",
+      "translation": "Puedes cambiar el sonido de la batería y presiona enter para tener una vista previa"
+    },
+    {
+      "key": "change game mode",
+      "translation": "Escoge entre los distintos y divertidos modos de juego que hay en esta version"
+    },
+    {
+      "key": "change score type",
+      "translation": "Escoge entre La puntuacion clasica de ARCADE o el estilo Shin-Uchi un modo de puntuacion mas preciso que ignora los combos"
+    },
+    {
+      "key": "change the current branch of the song",
+      "translation": "Cambiar la rama actual de la canción"
+    },
+    {
+      "key": "change the movement speed of notes",
+      "translation": "Cambia la velocidad del movimiento de las notas"
+    },
+    {
+      "key": "chapter",
+      "translation": "Pista"
+    },
+    {
+      "key": "Config",
+      "translation": "Ajustes"
+    },
+	{
+      "key": "Game Config",
+      "translation": "Ajustes"
+    },
+    {
+      "key": "Conig(F1)",
+      "translation": "CONF(F1)"
+    },
+    {
+      "key": "Cosplay",
+      "translation": "Cosplay"
+    },
+    {
+      "key": "Costume",
+      "translation": "Personalizacion"
+    },
+    {
+      "key": "current branch",
+      "translation": "Pista actual"
+    },
+    {
+      "key": "current input:",
+      "translation": "Entrada actual："
+    },
+    {
+      "key": "default",
+      "translation": "Por Defecto"
+    },
+    {
+      "key": "Depend on FPS",
+      "translation": "FPS Dinamico"
+    },
+    {
+      "key": "disable this option to avoid CPU spike",
+      "translation": "Solo habilite esta opción si la música no está sincronizada, ya que puede causar picos de FPS."
+    },
+    {
+      "key": "Don Chan's room",
+      "translation": "Cuarto de Don-chan"
+    },
+    {
+      "key": "double speed",
+      "translation": "Doble Velocidad"
+    },
+    {
+      "key": "drum sound",
+      "translation": "Tonada de golpe"
+    },
+    {
+      "key": "drum volume",
+      "translation": "Volumen del tambor"
+    },
+    {
+      "key": "Dynamic refresh according to current FPS",
+      "translation": "La actualización dinámica se basa en los FPS actuales, puede haber un retraso al acetar las notas cuando los FPS estan bajos"
+    },
+    {
+      "key": "Emotion",
+      "translation": "Expresiones"
+    },
+    {
+      "key": "FaceColor",
+      "translation": "Color de la cara"
+    },
+    {
+      "key": "Fixed time step",
+      "translation": "Por tiempo fijo"
+    },
+    {
+      "key": "found no replay",
+      "translation": "No se encontraron repeticiones"
+    },
+    {
+      "key": "FullScreen",
+      "translation": "Pantalla"
+    },
+    {
+      "key": "game mode",
+      "translation": "Modo de juego"
+    },
+    {
+      "key": "Game Start",
+      "translation": "Modo Taiko"
+    },
+    {
+      "key": "Gamepad Polling Frequency",
+      "translation": "Vibracion del gamepad"
+    },
+    {
+      "key": "good",
+      "translation": "Vale"
+    },
+    {
+      "key": "Head",
+      "translation": "Sombreros"
+    },
+    {
+      "key": "hide notes",
+      "translation": "No se muestran las notas musicales."
+    },
+    {
+      "key": "hits",
+      "translation": "Redobles"
+    },
+    {
+      "key": "Input Mode",
+      "translation": "Tipo de entrada"
+    },
+    {
+      "key": "judge time adjust(ms)",
+      "translation": "Ajuste de tiempo(ms)"
+    },
+    {
+      "key": "judge time(ms)",
+      "translation": "Tiem. de Res.(ms)"
+    },
+    {
+      "key": "key config",
+      "translation": "Controles"
+    },
+    {
+      "key": "left don",
+      "translation": "Don izquierdo"
+    },
+    {
+      "key": "left ka",
+      "translation": "ka izquierdo"
+    },
+    {
+      "key": "less",
+      "translation": "Caprichoso"
+    },
+    {
+      "key": "listning: \\n\\n enter to save esc to resume",
+      "translation": "listado: \\n\\n enter para guardar esc para regresar al menu"
+    },
+    {
+      "key": "max combo",
+      "translation": "Combo Maximo"
+    },
+    {
+      "key": "more",
+      "translation": "Caótico"
+    },
+    {
+      "key": "Music Auto-rectify",
+      "translation": "Calibracion Musical"
+    },
+    {
+      "key": "music volume",
+      "translation": "Volumen de la musica"
+    },
+    {
+      "key": "nijiro type",
+      "translation": "Modo Shin-Uchi"
+    },
+    {
+      "key": "none",
+      "translation": "Ninguno"
+    },
+    {
+      "key": "normal",
+      "translation": "Normal"
+    },
+    {
+      "key": "normal speed",
+      "translation": "Velocidad Normal"
+    },
+    {
+      "key": "note position adjust(ms)",
+      "translation": "Posición de nota(ms)"
+    },
+    {
+      "key": "note speed",
+      "translation": "Velocidad de las nota"
+    },
+    {
+      "key": "old AC type",
+      "translation": "Clasico de AC"
+    },
+    {
+      "key": "option",
+      "translation": "Opciones"
+    },
+    {
+      "key": "perfect",
+      "translation": "Bien"
+    },
+    {
+      "key": "play again from the beginning",
+      "translation": "Jugar de nuevo desde el principio"
+    },
+    {
+      "key": "play normally",
+      "translation": "Jugar normal"
+    },
+    {
+      "key": "play speed",
+      "translation": "Velocidad de la pista"
+    },
+    {
+      "key": "play with replay",
+      "translation": "Vs la repeticion"
+    },
+    {
+      "key": "player name",
+      "translation": "Nombre"
+    },
+    {
+      "key": "practice",
+      "translation": "Practica"
+    },
+    {
+      "key": "press enter to change or save and esc to resume",
+      "translation": "Presione enter para cambiar o guardar"
+    },
+    {
+      "key": "press 'enter' to config page",
+      "translation": "Presione 'entrar' para configurar los controles"
+    },
+    {
+      "key": "press option to add/remove your favorite song",
+      "translation": "Presione (espacio) para agregar o eliminar una cancion de sus favorita"
+    },
+    {
+      "key": "press option to change game setting",
+      "translation": "Presione la tecla (Espacio) para cambiar los ajustes del juego"
+    },
+    {
+      "key": "press←→ or ‘ka’ to change judge time range",
+      "translation": "Presione ← → para cambiar el tiempo de respuesta"
+    },
+    {
+      "key": "quadruple speed",
+      "translation": "Cuádruple Veloci."
+    },
+    {
+      "key": "Quit",
+      "translation": "Salir"
+    },
+    {
+      "key": "quit play",
+      "translation": "Salir"
+    },
+    {
+      "key": "random",
+      "translation": "Aleatorio"
+    },
+    {
+      "key": "reach the maximum number of 30",
+      "translation": "Solo puede tener 30 canciones en favoritos!\\n(Ya Alcanzo Ese Limite :,v)"
+    },
+    {
+      "key": "Record",
+      "translation": "Record"
+    },
+    {
+      "key": "Refresh on fixed time step",
+      "translation": "Se actualizara por intervalos fijos, dependiendo del rendimiento del PC, el máx. es 200 veces por seg. y el mín. es 50 veces por seg.; * Las altas frecuencias aumentaran el uso de la CPU"
+    },
+    {
+      "key": "remark: judging is looser in easy or normal",
+      "translation": "El tiempo de respuesta podria perderse en Facil o Normal"
+    },
+    {
+      "key": "repeat",
+      "translation": "Repetir"
+    },
+    {
+      "key": "repeating a part of the song for practice",
+      "translation": "Repite una parte de la canción para practicar"
+    },
+    {
+      "key": "replay",
+      "translation": "Repeticion"
+    },
+    {
+      "key": "Resolution",
+      "translation": "Resolucion"
+    },
+    {
+      "key": "restart",
+      "translation": "Reiniciar"
+    },
+    {
+      "key": "resume",
+      "translation": "Resumir"
+    },
+    {
+      "key": "reverse",
+      "translation": "Opuesto"
+    },
+    {
+      "key": "reverse the notes 'don' and 'ka'",
+      "translation": "Intercambia todas las notas 'Don'y 'Ka'"
+    },
+    {
+      "key": "right don",
+      "translation": "Don derecho"
+    },
+    {
+      "key": "right ka",
+      "translation": "Ka derecho"
+    },
+    {
+      "key": "score",
+      "translation": "Puntuacion"
+    },
+    {
+      "key": "score type",
+      "translation": "Tipo de puntuacion"
+    },
+    {
+      "key": "set auto play",
+      "translation": "Las canciones se tocaran de forma automatica"
+    },
+    {
+      "key": "set total play speed",
+      "translation": "Podras aumentar o disminuir la velocidad de las notas"
+    },
+    {
+      "key": "SkinColor",
+      "translation": "Color de la panza"
+    },
+    {
+      "key": "stealth",
+      "translation": "Desvancer"
+    },
+    {
+      "key": "Sub",
+      "translation": "Puchicharas"
+    },
+    {
+      "key": "switch current chapter",
+      "translation": "Avanza o retrocede la pista acual de la cancion"
+    },
+    {
+      "key": "Tatoo",
+      "translation": "Tatuajes"
+    },
+    {
+      "key": "the notes 'don' and 'ka' randomly change",
+      "translation": "(Caprichoso) \\n\\n intercambia algunas notas 'Don' y 'Ka' \\n\\n (Caotico) \\n\\n intercambia la mayoria de las notas 'Don' y 'Ka'"
+    },
+    {
+      "key": "triple speed",
+      "translation": "Triple Velocidad"
+    },
+    {
+      "key": "type shin",
+      "translation": "Estilo Shin-Uchi"
+    },
+    {
+      "key": "VSync",
+      "translation": "VSync"
+    },
+	{
+      "key": "On",
+      "translation": "Prendido"
+    },
+	{
+      "key": "Off",
+      "translation": "Apagado"
+    },
+	{
+      "key": "Function",
+      "translation": "Función"
+    },
+	{
+      "key": "start chapter",
+      "translation": "Pista Inicial"
+    },
+	{
+      "key": "end chapter",
+      "translation": "Pista Final"
+    },
+	{
+      "key": "back",
+      "translation": "Atras"
+    },
+	{
+      "key": "show judge result",
+      "translation": "Mostrar notas tocadas"
+    },
+	{
+      "key": "show the recently 10 results of hit judge",
+      "translation": "Mostrara las 10 ultimas notas tocadas"
+    },
+	{
+      "key": "special option",
+      "translation": "Especial"
+    },
+	{
+      "key": "AllPerfect",
+      "translation": "Perfecto"
+    },
+	{
+      "key": "Training",
+      "translation": "Espartano"
+    },
+	{
+      "key": "DAllPerfect",
+      "translation": "TODO BIEN"
+    },
+	{
+      "key": "DTraining",
+      "translation": "Entrenamiento"
+    },
+	{
+      "key": "change the special option",
+      "translation": "Escoge entre los distintos ajustes especiales para hacer mas divertido o dificil tu juego!"
+    },
+	{
+      "key": "quit the game play when get Bad",
+      "translation": "Termina la cancion al primer MAL."
+    },
+	{
+      "key": "restart when get Bad",
+      "translation": "Reinicia la cancion al primero MAL."
+    },
+	{
+      "key": "quit the game play when get no Perfect",
+      "translation": "Abandona el juego si no obtienes una nota en Bien"
+    },
+	{
+      "key": "restart when get no Perfect",
+      "translation": "Se reinicia la cancion cuando fallas un Bien"
+    },
+	{
+      "key": "Add or remove favorite",
+      "translation": "Agregar o eliminar favoritos"
+    },
+	{
+      "key": "Open options menu",
+      "translation": "Abrir el menú de opciones"
+    },
+	{
+      "key": "Stretch to full screen",
+      "translation": "Estirar a pantalla completa"
+    },
+	{
+      "key": "Show Dancer",
+      "translation": "Ver bailarines"
+    },
+	{
+      "key": "Play style",
+      "translation": "Aspecto"
+    },
+	{
+      "key": "duel mode or special stage will force tranditional style",
+      "translation": "El modo de dojo o las etapas especiales forzaran el juego al estilo tradicional!"
+    },
+	{
+      "key": "TraditionalStyle",
+      "translation": "Skin Original"
+    },
+	{
+      "key": "Ps4Style",
+      "translation": "Skin de PS4"
+    },
+	{
+      "key": "game result",
+      "translation": "Resultado del juego"
+    },
+	{
+      "key": "full combo",
+      "translation": "Combo Completo"
+    },
+	{
+      "key": "normal clear",
+      "translation": "Cancion Superada"
+    },
+	{
+      "key": "meta don clear lines",
+      "translation": "GG! ¡Bien jugado!"
+    },
+	{
+      "key": "normal clear lines",
+      "translation": "CONSEGUIDO! bien jugado!"
+    },
+	{
+      "key": "full combo clear lines",
+      "translation": "Siii! Combo Completo, Don!"
+    },
+	{
+      "key": "clear fail lines1",
+      "translation": "Mal... Vamos de Nuevo!"
+    },
+	{
+      "key": "clear fail lines2",
+      "translation": "Tal vez la proxima!"
+    },
+	{
+      "key": "Language",
+      "translation": "Lenguaje"
+    },
+	{
+      "key": "Chinese",
+      "translation": "Chino"
+    },
+	{
+      "key": "English",
+      "translation": "Ingles"
+    },
+	{
+      "key": "Japanese",
+      "translation": "Japones"
+    },
+	{
+      "key": "Korean",
+      "translation": "Koreano"
+    },
+	{
+      "key": "Spanish",
+      "translation": "Español"
+    },
+	{
+      "key": "record update",
+      "translation": "Record Actualizado"
+    },
+	{
+      "key": "Junior",
+      "translation": "Junior"
+    },
+	{
+      "key": "Class10",
+      "translation": "Niv 1"
+    },
+	{
+      "key": "Class9",
+      "translation": "Niv 2"
+    },
+	{
+      "key": "Class8",
+      "translation": "Niv 3"
+    },
+	{
+      "key": "Class7",
+      "translation": "Niv 4"
+    },
+	{
+      "key": "Class6",
+      "translation": "Niv 5"
+    },
+	{
+      "key": "Class5",
+      "translation": "Niv 6"
+    },
+	{
+      "key": "Class4",
+      "translation": "Niv 7"
+    },
+	{
+      "key": "Class3",
+      "translation": "Niv 8"
+    },
+	{
+      "key": "Class2",
+      "translation": "Niv 9"
+    },
+	{
+      "key": "Class1",
+      "translation": "Niv 10"
+    },
+	{
+      "key": "Dan1",
+      "translation": "Dan 1"
+    },
+	{
+      "key": "Dan2",
+      "translation": "Dan 2"
+    },
+	{
+      "key": "Dan3",
+      "translation": "Dan 3"
+    },
+	{
+      "key": "Dan4",
+      "translation": "Dan 4"
+    },
+	{
+      "key": "Dan5",
+      "translation": "Dan 5"
+    },
+	{
+      "key": "Dan6",
+      "translation": "Dan 6"
+    },
+	{
+      "key": "Dan7",
+      "translation": "Dan 7"
+    },
+	{
+      "key": "Dan8",
+      "translation": "Dan 8"
+    },
+	{
+      "key": "Dan9",
+      "translation": "Dan 9"
+    },
+	{
+      "key": "Dan10",
+      "translation": "Dan 10"
+    },
+	{
+      "key": "Kurotou",
+      "translation": "Kurotou"
+    },
+	{
+      "key": "Meijin",
+      "translation": "Meijin"
+    },
+	{
+      "key": "Choujin",
+      "translation": "Choujin"
+    },
+	{
+      "key": "Tatsujin",
+      "translation": "Tatsujin"
+    },
+	{
+      "key": "Extension",
+      "translation": "Extension"
+    },
+	{
+      "key": "MurasakiVersion",
+      "translation": "Ver. Murasaki"
+    },
+	{
+      "key": "WhiteVersion",
+      "translation": "Ver. Blanca"
+    },
+	{
+      "key": "RedVersion",
+      "translation": "Ver. Roja"
+    },
+	{
+      "key": "YellowVersion",
+      "translation": "Ver.Amarilla"
+    },
+	{
+      "key": "BlueVersion",
+      "translation": "Ver. Azul"
+    },
+	{
+      "key": "GreenVersion",
+      "translation": "Ver. Verde"
+    },
+	{
+      "key": "NijiiroVersion",
+      "translation": "Ver. Nijiiro"
+    },
+	{
+      "key": "Clear conditions",
+      "translation": "Requisitos para completar la Cancion"
+    },
+	{
+      "key": "DanClear",
+      "translation": "Dan Listo"
+    },
+	{
+      "key": "bad less than {0}",
+      "translation": "Cant. Minima de “mal” {0}"
+    },
+	{
+      "key": "hits count at least {0}",
+      "translation": "Cant. Minima de “Golpes” {0}"
+    },
+	{
+      "key": "drumrolls at least {0}",
+      "translation": "Redobles con {0}"
+    },
+	{
+      "key": "gauge at least {0}%",
+      "translation": "Cant. Minima de “Almas” {0}%"
+    },
+	{
+      "key": "at least {0}%",
+      "translation": "Min. {0}%"
+    },
+	{
+      "key": "good less than {0}",
+      "translation": "Cant. Minima de “Vale” {0}"
+    },
+	{
+      "key": "max combo at least {0}",
+      "translation": "Cant. Minima de “Combo” {0}"
+    },
+	{
+      "key": "perfect at least {0}",
+      "translation": "Cant. Minima de “Bien” {0}"
+    },
+	{
+      "key": "score at least {0}",
+      "translation": "Puntuacion {0}"
+    },
+	{
+      "key": "notes left",
+      "translation": "Notas Restante"
+    },
+	{
+      "key": "first song",
+      "translation": "1° Cancion"
+    },
+	{
+      "key": "second song",
+      "translation": "2° Cancion"
+    },
+	{
+      "key": "third song",
+      "translation": "3° Cancion"
+    },
+	{
+      "key": "total {0}",
+      "translation": "De {0}"
+    },
+	{
+      "key": "best record",
+      "translation": "Mejor Record"
+    },
+	{
+      "key": "bad number",
+      "translation": "Cantidad de Mal"
+    },
+	{
+      "key": "hits count",
+      "translation": "Cantidad de Golpes"
+    },
+	{
+      "key": "drumrolls",
+      "translation": "Redobles"
+    },
+	{
+      "key": "tamashii gauge",
+      "translation": "Medidor de Almas"
+    },
+	{
+      "key": "good number",
+      "translation": "Cantidad de Vale"
+    },
+	{
+      "key": "perfect number",
+      "translation": "Cantidad de Bien"
+    },
+	{
+      "key": "at least {0}",
+      "translation": "Min. {0}"
+    },
+	{
+      "key": "less than {0}",
+      "translation": "Min. {0}"
+    },
+	{
+      "key": "RankingDojo Result",
+      "translation": "Resultados de Dan Dojo"
+    },
+	{
+      "key": "RankingDojo",
+      "translation": "Dan Dojo"
+    },
+    {
+      "key": "1.1 speed",
+      "translation": "1.1 de Velocidad"
+    },
+    {
+      "key": "1.2 speed",
+      "translation": "1.2 de Velocidad"
+    },
+    {
+      "key": "1.3 speed",
+      "translation": "1.3 de Velocidad"
+    },
+    {
+      "key": "1.4 speed",
+      "translation": "1.4 de Velocidad"
+    },
+    {
+      "key": "1.5 speed",
+      "translation": "1.5 de Velocidad"
+    },
+    {
+      "key": "JPop",
+      "translation": "J-POP"
+    },
+    {
+      "key": "Animation",
+      "translation": "Anime"
+    },
+    {
+      "key": "Vocaloid",
+      "translation": "VOCALOID"
+    },
+    {
+      "key": "Childrens",
+      "translation": "Niños"
+    },
+    {
+      "key": "Variety",
+      "translation": "Varios"
+    },
+    {
+      "key": "Classic",
+      "translation": "Clásico"
+    },
+    {
+      "key": "Gamemusic",
+      "translation": "Música de Juegos"
+    },
+    {
+      "key": "NamcoOriginal",
+      "translation": "Namco Original"
+    },
+    {
+      "key": "Search",
+      "translation": "Buscar Cancion"
+    },
+    {
+      "key": "Preset Manage",
+      "translation": "Conjuntos"
+    },
+    {
+      "key": "OpenMenu",
+      "translation": "Abrir"
+    },
+    {
+      "key": "Fold",
+      "translation": "Cerrar"
+    },
+    {
+      "key": "Load",
+      "translation": "Cargar"
+    },
+    {
+      "key": "Save",
+      "translation": "Guardar"
+    },
+    {
+      "key": "press option button to save current set, and press enter to load preset",
+      "translation": "Seleccione un slot de conjunto y al dar clic en guardar se guardara el conjunto actual asi lo mismo con otros conjuntos y para usar un conjunto guardado seleciona el slot que quieras y dale clic a cargar para cargar un conjunto guardado "
+    },
+    {
+      "key": "Preset",
+      "translation": "Conjunto "
+    },
+    {
+      "key": "confirm",
+      "translation": "Confirmar"
+    },    
+	{
+      "key": "Pick a song randomly (F2)",
+      "translation": "Para canción al azar (F2)"
+    },
+	{
+      "key": "controller",
+      "translation": "Control"
+    },
+	{
+      "key": "keyboard",
+      "translation": "Teclado"
+    },
+	{
+      "key": "peripheral",
+      "translation": "Periférico"
+    },
+	{
+      "key": "direction",
+      "translation": "Direccion"
+    },
+	{
+      "key": "confirm",
+      "translation": "Confirmar"
+    },
+	{
+      "key": "cancel",
+      "translation": "Cancelar"
+    },
+  ]
+}

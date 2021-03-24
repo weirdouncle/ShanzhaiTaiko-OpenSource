@@ -1,0 +1,202 @@
+{
+  "36000": {
+    "Position": 65536,
+    "SkinId": 36000,
+    "Path": "SkinReward/Cos/cos_036000/cos_036000",
+    "Name": "Junior",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36002": {
+    "Position": 65536,
+    "SkinId": 36002,
+    "Path": "SkinReward/Cos/cos_036002/cos_036002",
+    "Name": "Class10",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36003": {
+    "Position": 65536,
+    "SkinId": 36003,
+    "Path": "SkinReward/Cos/cos_036003/cos_036003",
+    "Name": "Class9",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36004": {
+    "Position": 65536,
+    "SkinId": 36004,
+    "Path": "SkinReward/Cos/cos_036004/cos_036004",
+    "Name": "Class8",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36005": {
+    "Position": 65536,
+    "SkinId": 36005,
+    "Path": "SkinReward/Cos/cos_036005/cos_036005",
+    "Name": "Class7",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36006": {
+    "Position": 65536,
+    "SkinId": 36006,
+    "Path": "SkinReward/Cos/cos_036006/cos_036006",
+    "Name": "Class6",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36007": {
+    "Position": 65536,
+    "SkinId": 36007,
+    "Path": "SkinReward/Cos/cos_036007/cos_036007",
+    "Name": "Class5",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36008": {
+    "Position": 65536,
+    "SkinId": 36008,
+    "Path": "SkinReward/Cos/cos_036008/cos_036008",
+    "Name": "Class4",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36009": {
+    "Position": 65536,
+    "SkinId": 36009,
+    "Path": "SkinReward/Cos/cos_036009/cos_036009",
+    "Name": "Class3",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36010": {
+    "Position": 65536,
+    "SkinId": 36010,
+    "Path": "SkinReward/Cos/cos_036010/cos_036010",
+    "Name": "Class2",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36011": {
+    "Position": 65536,
+    "SkinId": 36011,
+    "Path": "SkinReward/Cos/cos_036011/cos_036011",
+    "Name": "Class1",
+    "Mask": 16,
+    "Remark": ""
+  },
+      "36012": {
+    "Position": 65536,
+    "SkinId": 36012,
+    "Path": "SkinReward/Cos/cos_036012/cos_036012",
+    "Name": "Dan1",
+    "Mask": 272,
+    "Remark": ""
+  },
+      "36013": {
+    "Position": 65536,
+    "SkinId": 36013,
+    "Path": "SkinReward/Cos/cos_036013/cos_036013",
+    "Name": "Dan2",
+    "Mask": 272,
+    "Remark": ""
+  },
+      "36014": {
+    "Position": 65536,
+    "SkinId": 36014,
+    "Path": "SkinReward/Cos/cos_036014/cos_036014",
+    "Name": "Dan3",
+    "Mask": 4112,
+    "Remark": ""
+  },
+      "36015": {
+    "Position": 65536,
+    "SkinId": 36015,
+    "Path": "SkinReward/Cos/cos_036015/cos_036015",
+    "Name": "Dan4",
+    "Mask": 4112,
+    "Remark": ""
+  },
+      "36016": {
+    "Position": 65536,
+    "SkinId": 36016,
+    "Path": "SkinReward/Cos/cos_036016/cos_036016",
+    "Name": "Dan5",
+    "Mask": 4112,
+    "Remark": ""
+  },
+      "36017": {
+    "Position": 65536,
+    "SkinId": 36017,
+    "Path": "SkinReward/Cos/cos_036017/cos_036017",
+    "Name": "Dan6",
+    "Mask": 4112,
+    "Remark": ""
+  },
+      "36018": {
+    "Position": 65536,
+    "SkinId": 36018,
+    "Path": "SkinReward/Cos/cos_036018/cos_036018",
+    "Name": "Dan7",
+    "Mask": 272,
+    "Remark": ""
+  },
+      "36019": {
+    "Position": 65536,
+    "SkinId": 36019,
+    "Path": "SkinReward/Cos/cos_036019/cos_036019",
+    "Name": "Dan8",
+    "Mask": 272,
+    "Remark": ""
+  },
+    "36020": {
+    "Position": 65536,
+    "SkinId": 36020,
+    "Path": "SkinReward/Cos/cos_036020/cos_036020",
+    "Name": "Dan9",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36021": {
+    "Position": 65536,
+    "SkinId": 36021,
+    "Path": "SkinReward/Cos/cos_036021/cos_036021",
+    "Name": "Dan10",
+    "Mask": 16,
+    "Remark": ""
+  },
+    "36022": {
+    "Position": 65536,
+    "SkinId": 36022,
+    "Path": "SkinReward/Cos/cos_036022/cos_036022",
+    "Name": "Kurotou",
+    "Mask": 4112,
+    "Remark": ""
+  },
+    "36023": {
+    "Position": 65536,
+    "SkinId": 36023,
+    "Path": "SkinReward/Cos/cos_036023/cos_036023",
+    "Name": "Meijin",
+    "Mask": 4112,
+    "Remark": ""
+  },
+    "36024": {
+    "Position": 65536,
+    "SkinId": 36024,
+    "Path": "SkinReward/Cos/cos_036024/cos_036024",
+    "Name": "Choujin",
+    "Mask": 4112,
+    "Remark": ""
+  },
+    "36025": {
+    "Position": 65536,
+    "SkinId": 36025,
+    "Path": "SkinReward/Cos/tatsujin/tatsujin",
+    "Name": "Tatsujin",
+    "Mask": 16,
+    "Remark": "You are the master"
+  },
+}

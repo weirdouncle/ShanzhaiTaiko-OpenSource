@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 8df557a7307467244ba017dc4b9a51db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7118478551112838491
+    second: renda_a_01_01
+  - first:
+      213: 5889354170206469511
+    second: renda_a_01_02
+  - first:
+      213: -3609974989633025809
+    second: renda_a_01_03
+  - first:
+      213: -3857415913771787420
+    second: renda_a_01_04
+  - first:
+      213: 1696067892585670640
+    second: renda_a_01_05
+  - first:
+      213: -7154875553174477246
+    second: renda_a_01_06
+  - first:
+      213: -450188219551953435
+    second: renda_a_02_01
+  - first:
+      213: 6301063094224912754
+    second: renda_a_02_02
+  - first:
+      213: -6959171998709406765
+    second: renda_a_02_03
+  - first:
+      213: -498262302460419573
+    second: renda_a_02_04
+  - first:
+      213: 1625383812969257756
+    second: renda_a_02_05
+  - first:
+      213: 848229602738093840
+    second: renda_a_02_06
+  - first:
+      213: -1612082334740806324
+    second: renda_a_03_0_0_0_0
+  - first:
+      213: 1328921987826411420
+    second: renda_b_10_0_0_0_0_02
+  - first:
+      213: 7438220497721764269
+    second: renda_b_10_0_0_0_0_03
+  - first:
+      213: -1944526425220541921
+    second: renda_b_10_0_0_0_0_04
+  - first:
+      213: -4213311379058400008
+    second: renda_b_14_01
+  - first:
+      213: 6230556260716588153
+    second: renda_b_14_02
+  - first:
+      213: 1279470691931382980
+    second: renda_b_14_03
+  - first:
+      213: 219030648972120523
+    second: renda_b_14_04
+  - first:
+      213: 7711771775324992918
+    second: renda_b_14_05
+  - first:
+      213: -3736516134972139343
+    second: renda_b_14_06
+  - first:
+      213: -6218678198465853965
+    second: renda_b_14_07
+  - first:
+      213: 4695728013867741117
+    second: renda_b_14_08
+  - first:
+      213: 2516755615160592319
+    second: renda_b_14_09
+  - first:
+      213: -7575158183333256262
+    second: renda_b_14_10
+  - first:
+      213: -2540047882525586577
+    second: renda_baton_0_0_0_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: renda_a_01_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6154e68ae9c260800000000000000
+      internalID: 7118478551112838491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_01_02
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d3f972a603bb150800000000000000
+      internalID: 5889354170206469511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_01_03
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe801e69fdac6edc0800000000000000
+      internalID: -3609974989633025809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_01_04
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b91b4f9a4b77ac0800000000000000
+      internalID: -3857415913771787420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_01_05
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7a38c13c4a98710800000000000000
+      internalID: 1696067892585670640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_01_06
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1705
+        width: 274
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a8e0b796c4bc90800000000000000
+      internalID: -7154875553174477246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_01
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1701
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed4a83133c90c9f0800000000000000
+      internalID: -450188219551953435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1425
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271899eef7fd17750800000000000000
+      internalID: 6301063094224912754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_03
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1425
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a41e30fd0c6f90800000000000000
+      internalID: -6959171998709406765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_04
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1425
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02e0e86311d519f0800000000000000
+      internalID: -498262302460419573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_05
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1425
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd3bb57f58e8610800000000000000
+      internalID: 1625383812969257756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_02_06
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1425
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fbc2f545485cb00800000000000000
+      internalID: 848229602738093840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_a_03_0_0_0_0
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1187
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45871168abb0a9e0800000000000000
+      internalID: -1612082334740806324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_10_0_0_0_0_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 510
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97699ac187417210800000000000000
+      internalID: 1328921987826411420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_10_0_0_0_0_03
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 685
+        width: 510
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da92cbf122ed93760800000000000000
+      internalID: 7438220497721764269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_10_0_0_0_0_04
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 685
+        width: 510
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f129e50d487a305e0800000000000000
+      internalID: -1944526425220541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_01
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 848
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ec13bf9f4785c0800000000000000
+      internalID: -4213311379058400008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c291188e1677650800000000000000
+      internalID: 6230556260716588153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_03
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 346
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e71db0d791c110800000000000000
+      internalID: 1279470691931382980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_04
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 346
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc118eaf6372a0300800000000000000
+      internalID: 219030648972120523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_05
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 346
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69531292297b50b60800000000000000
+      internalID: 7711771775324992918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_06
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 346
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b858754f5a352cc0800000000000000
+      internalID: -3736516134972139343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f50aff5021d2b9a0800000000000000
+      internalID: -6218678198465853965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_08
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfef64efb39a2140800000000000000
+      internalID: 4695728013867741117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_09
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ed1cc5ef4de220800000000000000
+      internalID: 2516755615160592319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_b_14_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 7
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3270564c1afd690800000000000000
+      internalID: -7575158183333256262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: renda_baton_0_0_0_0
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1
+        width: 403
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b449998efefbcd0800000000000000
+      internalID: -2540047882525586577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

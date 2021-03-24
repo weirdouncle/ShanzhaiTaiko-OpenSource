@@ -1,0 +1,47 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:aefaf63ebb9798f12406b78df58ccabe:bc2efdec0ece3d8bae18d8467f29a78b:2fad2fbcd2d180feae2c6a226e6d20ab$
+#
+:format=40300
+:texture=main_plate.png
+:size=1880x1084
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+1P_Background;509;337;666;352; 0.5;0.5; 0;0;0;0
+1P_Frame;1;4;1427;57; 0.5;0.5; 0;0;0;0
+1P_NamePlate;1;63;852;240; 0.5;0.5; 0;0;0;0
+2P_Background;1177;337;666;352; 0.5;0.5; 0;0;0;0
+2P_NamePlate;855;63;852;240; 0.5;0.5; 0;0;0;0
+auto;51;1013;70;70; 0.5;0.5; 0;0;0;0
+base;171;305;336;384; 0.5;0.5; 0;0;0;0
+Combo_0;123;888;150;195; 0.5;0; 0;0;0;0
+Combo_1;275;888;150;195; 0.5;0; 0;0;0;0
+Combo_2;427;888;150;195; 0.5;0; 0;0;0;0
+Combo_3;579;888;150;195; 0.5;0; 0;0;0;0
+Combo_4;731;888;150;195; 0.5;0; 0;0;0;0
+Combo_5;883;888;150;195; 0.5;0; 0;0;0;0
+Combo_6;1035;888;150;195; 0.5;0; 0;0;0;0
+Combo_7;1187;888;150;195; 0.5;0; 0;0;0;0
+Combo_8;1339;888;150;195; 0.5;0; 0;0;0;0
+Combo_9;1491;888;150;195; 0.5;0; 0;0;0;0
+Combo_Big_0;1643;888;150;195; 0.5;0; 0;0;0;0
+Combo_Big_1;1;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_2;153;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_3;305;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_4;457;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_5;609;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_6;761;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_7;913;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_8;1065;691;150;195; 0.5;0; 0;0;0;0
+Combo_Big_9;1217;691;150;195; 0.5;0; 0;0;0;0
+Combo_Effect;1;1015;48;68; 0.5;0.5; 0;0;0;0
+don_left;1369;694;168;192; 0.5;0.5; 0;0;0;0
+don_right;1539;694;168;192; 0.5;0.5; 0;0;0;0
+ka_left;1709;694;168;192; 0.5;0.5; 0;0;0;0
+ka_right;1;497;168;192; 0.5;0.5; 0;0;0;0

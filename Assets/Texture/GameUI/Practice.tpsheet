@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:38fb4b3cab70fc25c40427887b05c05d:60844541a6f74c8181219bee6c10c509:9f705559d663abe7fd342211dbcbcf86$
+#
+:format=40300
+:texture=Practice.png
+:size=116x108
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+bar;1;89;18;18; 0.5;0.5; 0;0;0;0
+chapter;21;75;58;32; 0.5;0.5; 0;0;0;0
+gogo;1;3;60;70; 0.5;0.5; 0;0;0;0
+indicate;63;3;50;70; 0.5;0.5; 0;0;0;0
+split;81;75;22;32; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bd2b45294eeea6133465d080deefb3a8:f461fd6f1096476b771316dfc78bcab6:7608be46c5b089f03033ae5f0a87d7af$
+#
+:format=40300
+:texture=GogoFire.png
+:size=1936x1128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+fire_0;1;565;482;562; 0.5;0.5; 0;0;0;0
+fire_1;485;565;482;562; 0.5;0.5; 0;0;0;0
+fire_2;969;565;482;562; 0.5;0.5; 0;0;0;0
+fire_3;1453;565;482;562; 0.5;0.5; 0;0;0;0
+fire_4;1;1;482;562; 0.5;0.5; 0;0;0;0
+fire_5;485;1;482;562; 0.5;0.5; 0;0;0;0
+fire_6;969;1;482;562; 0.5;0.5; 0;0;0;0
+fire_7;1453;1;482;562; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:6dc24305f839004d45d4a9cb78594413:d35a854b0f9a525713ecf90ffd7737b0:96027252c9e31ca6289f9726d9e0b5cb$
+#
+:format=40300
+:texture=foot.png
+:size=1924x152
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+1;1;103;1920;48; 0.5;0.5; 0;0;0;0
+2;1;53;1920;48; 0.5;0.5; 0;0;0;0
+3;1;3;1920;48; 0.5;0.5; 0;0;0;0

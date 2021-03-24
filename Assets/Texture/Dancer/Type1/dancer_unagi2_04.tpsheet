@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:aed451b13539ead098a5d5d8cdb1ff7b:df3a5a751a5c9a6b0de3ed4a4275293b:c361a07bea6bf474c16990045c4ad75a$
+#
+:format=40300
+:texture=dancer_unagi2_04.png
+:size=2000x2336
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+dancer_unagi2_4 01;0;1768;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 02;500;1768;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 03;1000;1768;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 04;1500;1768;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 05;0;1200;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 06;500;1200;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 07;1000;1200;500;568; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 08;1500;1368;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 09;0;800;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 10;400;800;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 11;800;800;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 12;1200;800;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 13;1600;800;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 14;0;400;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 15;400;400;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 16;800;400;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 17;1200;400;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 18;1600;400;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 19;0;0;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 20;400;0;400;400; 0.5;0.5; 0;0;0;0
+dancer_unagi2_4 21;800;0;400;400; 0.5;0.5; 0;0;0;0

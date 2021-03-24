@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6694330205443886880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6694330205443886881}
+  - component: {fileID: 6694330205443886878}
+  m_Layer: 0
+  m_Name: Renda1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6694330205443886881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6694330205443886880}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6694330205443886878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6694330205443886880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a894d3a8adb129449bad0d6b4661e122, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Pools: 5
+  Fireball_pres:
+  - {fileID: 6735765504710263561, guid: b2b4855adff65ae4fbc37641bbef7087, type: 3}
+  - {fileID: 826253373523118160, guid: aca1999ce2d74984d9ce40bbd43c748c, type: 3}
+  - {fileID: 1488519863354109763, guid: 985dddf6b1e5018478d302bc4d5dc554, type: 3}
+  - {fileID: 6081392163029169170, guid: b4ce6bde30d5c5d4dbc765e26093f463, type: 3}
+  - {fileID: 1528787577056588939, guid: 00e7705bf9cead94eaf98c87db859c8e, type: 3}
+  - {fileID: 8596909881895592590, guid: ec3c1a160d1ec1242ae657b1a7776494, type: 3}
+  Positions:
+  - {x: -10.96, y: -4.43, z: 0}
+  - {x: -7.07, y: -7.14, z: 0}
+  - {x: -2.82, y: -6.26, z: 0}
+  - {x: -7.53, y: -7.01, z: 0}
+  - {x: -8.5, y: -5.66, z: 0}
+  - {x: -7.73, y: -6.57, z: 0}
+  - {x: -8.6, y: -6.57, z: 0}
