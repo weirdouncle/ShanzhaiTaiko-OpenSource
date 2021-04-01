@@ -720,6 +720,39 @@ public class CriAtomSource : CriMonoBehaviour
 	}
 
 	/**
+ * <summary>自定义初始化acb和快速播放</summary>
+ * <remarks>
+ * 自定义脚本，让其不需要每次都读取acb</para>
+ * </remarks>
+ */
+	public void Init()
+    {
+		CriAtomExAcb custom_acb = CriAtom.GetAcb(this.cueSheet);
+		this.player.SetCue(custom_acb, cueName);
+
+		if (this.hasValidPosition == false)
+		{
+			this.SetInitialSourcePosition();
+			this.hasValidPosition = true;
+		}
+	}
+
+	public void PlayDirectly()
+	{
+#if !UNITY_EDITOR && UNITY_ANDROID
+		if (androidUseLowLatencyVoicePool) {
+			this.player.SetSoundRendererType(CriAtomEx.SoundRendererType.Native);
+		} else {
+			this.player.SetSoundRendererType(CriAtomEx.androidDefaultSoundRendererType);
+		}
+#endif
+		//if (this.status == Status.Stop)
+		//	this.player.Loop(this._loop);
+
+		this.player.Play();
+	}
+
+    /**
 	 * <summary>Asynchronously starts playing the Cue with the specified Cue name.</summary>
 	 * <param name='cueName'>Cue name</param>
 	 * <returns>Coroutine</returns>
@@ -728,7 +761,7 @@ public class CriAtomSource : CriMonoBehaviour
 	 * Call this function by specifying it as an argument of MonoBehaviour::StartCoroutine.</para>
 	 * </remarks>
 	 */
-	private IEnumerator PlayAsync(string cueName)
+    private IEnumerator PlayAsync(string cueName)
 	{
 		CriAtomExAcb acb = null;
 		while (acb == null && !String.IsNullOrEmpty(this.cueSheet)) {

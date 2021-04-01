@@ -9,12 +9,7 @@ public class SoundPool : MonoBehaviour
     public CriAtomSource Ka;
     public CriAtomSource Don2;
     public CriAtomSource Ka2;
-    public float AndriodAudioVolume = 0.7f;
 
-    private int don;
-    private int ka;
-    private int sound_type;
-    private int sound_type_2p;
     void Start()
     {
         /*
@@ -27,14 +22,15 @@ public class SoundPool : MonoBehaviour
         }
         */
 #if !UNITY_ANDROID
-        sound_type = GameSetting.DrumTypes[GameSetting.Config.DrumSoundType];
+        Don.cueName = Ka.cueName = GameSetting.DrumTypes[GameSetting.Config.DrumSoundType].ToString();
+        if (Don2 != null) Don2.cueName = Ka2.cueName = "0";
         if (GameSetting.Mode == CommonClass.PlayMode.Replay)
         {
-            sound_type = GameSetting.DrumTypes[GameSetting.Replay.Config[GameSetting.Config.ScoreMode][(int)GameSetting.Difficulty].DrumSoundType];
+            Don.cueName = Ka.cueName = GameSetting.DrumTypes[GameSetting.Replay.Config[GameSetting.Config.ScoreMode][(int)GameSetting.Difficulty].DrumSoundType].ToString();
         }
         else if (GameSetting.Mode == CommonClass.PlayMode.PlayWithReplay)
         {
-            sound_type_2p = GameSetting.DrumTypes[GameSetting.Replay.Config[GameSetting.Config.ScoreMode][(int)GameSetting.Difficulty].DrumSoundType];
+            Don2.cueName = Ka2.cueName = GameSetting.DrumTypes[GameSetting.Replay.Config[GameSetting.Config.ScoreMode][(int)GameSetting.Difficulty].DrumSoundType].ToString();
             Don.pan3dAngle = Ka.pan3dAngle = -90;
             Don2.pan3dAngle = Ka2.pan3dAngle = 90;
         }
@@ -43,37 +39,38 @@ public class SoundPool : MonoBehaviour
             Don.pan3dAngle = Ka.pan3dAngle = -90;
             Don2.pan3dAngle = Ka2.pan3dAngle = 90;
         }
+#else
+        Don.cueName = "don";
+        Ka.cueName = "ka";
 #endif
-        SetVolume();
+        InitSound();
     }
 
     public void PlaySound(bool don)
     {
-#if !UNITY_ANDROID
         if (don)
-            Don.Play(sound_type);
+            Don.PlayDirectly();
         else
-            Ka.Play(sound_type);
-#else
-        if (don)
-            Don.Play();
-        else
-            Ka.Play();
-#endif
+            Ka.PlayDirectly();
     }
 
     public void PlaySound2(bool don)
     {
         if (don)
-            Don2.Play(sound_type_2p);
+            Don2.PlayDirectly();
         else
-            Ka2.Play(sound_type_2p);
+            Ka2.PlayDirectly();
     }
 
-    private void SetVolume()
+    private void InitSound()
     {
-        float volum = GameSetting.Config.EffectVolume;
-        Don.volume = volum;
-        Ka.volume = volum;
+        Don.volume = Ka.volume = GameSetting.Config.EffectVolume;
+        Don.Init();
+        Ka.Init();
+        if (Don2 != null)
+        {
+            Don2.Init();
+            Ka2.Init();
+        }
     }
 }

@@ -898,6 +898,11 @@ public class CriAtomExPlayer : CriDisposable
 		return new CriAtomExPlayback(criAtomExPlayer_Start(this.handle));
 	}
 
+	public void Play()
+	{
+		criAtomExPlayer_Start(this.handle);
+	}
+
 	/**
 	 * <summary>Prepare for playback</summary>
 	 * <returns>CriAtomExPlayback object</returns>
