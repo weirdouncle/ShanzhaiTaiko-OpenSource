@@ -6,7 +6,6 @@ public class DonImageScript : MonoBehaviour
 {
     public RawImage Image;
     public Canvas Canvas;
-    public cakeslice.Outline Outline;
     public Animation ReplayAnimation;
     public TooSimpleFramework.UI.OutlineEx OutlineEx;
     public Material Material;

@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class ClearScript : MonoBehaviour
@@ -9,62 +8,43 @@ public class ClearScript : MonoBehaviour
     public Transform[] Images;
     public Animator ClearAni;
     public Animator Bg2Move;
+    public Animator[] UVAnimations;
 
     protected Queue<Transform> queue = new Queue<Transform>();
-    private WaitForSeconds wait = new WaitForSeconds(0.01f);
     void Start()
     {
-        foreach (Transform image in Images)
-        {
-            queue.Enqueue(image);
-        }
-        gameObject.SetActive(false);
     }
 
     public virtual void SetClear(bool clear)
     {
         if (clear)
         {
-            if (ClearBg != null)
-            {
-                ClearBg.localPosition = new Vector3(0, 4.82f);
-                Bg2Move.transform.localPosition = new Vector3(0, 0);
-                MovePanel.localPosition = new Vector3(0, 0);
-                for (int i = 0; i < Images.Length; i++)
-                    Images[i].localPosition = new Vector3(i * 19.2f, 0);
-            }
-
-            gameObject.SetActive(true);
             ClearAni.SetTrigger("Play");
         }
         else
         {
-            if (ClearBg != null)
-            {
-                StopAllCoroutines();
-                Bg2Move.enabled = false;
-                queue.Clear();
-                foreach (Transform image in Images)
-                    queue.Enqueue(image);
-            }
+            foreach (Animator animation in UVAnimations)
+                animation.enabled = false;
+            Bg2Move.enabled = false;
 
-            if (gameObject.activeSelf)
-                ClearAni.SetTrigger("Quit");
+            ClearAni.SetTrigger("Quit");
         }
     }
 
     public virtual void OnDisapearFinish()
     {
-        gameObject.SetActive(false);
     }
 
     public virtual void OnApearFinish()
     {
         //ClearAni.enabled = false;
         Bg2Move.enabled = true;
-        if (MovePanel != null)
-            StartCoroutine(Move());
+        foreach (Animator animation in UVAnimations)
+            animation.enabled = true;
     }
+
+    /*
+    private WaitForSeconds wait = new WaitForSeconds(0.01f);
 
     IEnumerator Move()
     {
@@ -88,4 +68,5 @@ public class ClearScript : MonoBehaviour
             }
         }
     }
+    */
 }

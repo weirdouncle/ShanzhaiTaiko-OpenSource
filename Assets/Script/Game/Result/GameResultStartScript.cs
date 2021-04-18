@@ -10,8 +10,7 @@ public class GameResultStartScript : MonoBehaviour
     public string LoadScene;
     public Animator Animator;
     public GameObject AndroidDrum;
-    public Transform MovePanel;
-    public Transform[] Images;
+    public Animation Animation;
     public GloableAniControllerScript GloableAni;
     public Camera Camera;
 
@@ -28,10 +27,6 @@ public class GameResultStartScript : MonoBehaviour
 
     void Start()
     {
-        //if (Camera != null) Debug.Log(Camera.cullingMask);
-
-        foreach (Transform image in Images)
-            queue.Enqueue(image);
     }
 
     void OnDestroy()
@@ -109,31 +104,9 @@ public class GameResultStartScript : MonoBehaviour
 
     public virtual void BgMoving()
     {
-        StartCoroutine(Move());
+        Animation.enabled = true;
     }
-
-    IEnumerator Move()
-    {
-        int count = 0;
-        int round = 0;
-        while (true)
-        {
-            MovePanel.localPosition += new Vector3(0, 0.02f);
-            yield return wait;
-            count++;
-            if (count >= 579)
-            {
-                count = 0;
-                round++;
-                Transform first = queue.Dequeue();
-                Transform[] rest = new Transform[2];
-                queue.CopyTo(rest, 0);
-                queue.Enqueue(first);
-                first.localPosition = new Vector3(0, rest[1].localPosition.y - 11.58f);
-                first.SetAsLastSibling();
-            }
-        }
-    }
+    
 
     protected void SaveReplay()
     {

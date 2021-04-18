@@ -134,7 +134,6 @@ GameObject:
   m_Component:
   - component: {fileID: 54584088}
   - component: {fileID: 54584089}
-  - component: {fileID: 54584090}
   m_Layer: 8
   m_Name: don_face
   m_TagString: Untagged
@@ -247,22 +246,6 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.000000022351742, y: 0.14123683, z: 0.12826414}
     m_Extent: {x: 0.068409376, y: 0.06838338, z: 0.00016315281}
   m_DirtyAABB: 0
---- !u!114 &54584090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 54584087}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
-  originalLayer: 0
-  originalMaterials: []
 --- !u!21 &133419751
 Material:
   serializedVersion: 6
@@ -1254,6 +1237,43 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 19.2, y: 10.8}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!21 &822740626
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TSF Shaders/DonOutline
+  m_Shader: {fileID: 4800000, guid: e194de558c4fdea4aa4517f7cc78b979, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _OutlineWidth: 4
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    - _Volume: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
 --- !u!1 &827612736
 GameObject:
   m_ObjectHideFlags: 0
@@ -1908,7 +1928,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1462214300}
   - component: {fileID: 1462214301}
-  - component: {fileID: 1462214302}
   m_Layer: 8
   m_Name: don_frontback
   m_TagString: Untagged
@@ -2021,22 +2040,6 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.000000022351742, y: 0.14119937, z: 0.000019103289}
     m_Extent: {x: 0.0899781, y: 0.089943945, z: 0.1275191}
   m_DirtyAABB: 0
---- !u!114 &1462214302
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1462214299}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
-  originalLayer: 0
-  originalMaterials: []
 --- !u!1 &1485660105
 GameObject:
   m_ObjectHideFlags: 0
@@ -2203,7 +2206,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1559569909}
   - component: {fileID: 1559569910}
-  - component: {fileID: 1559569911}
   m_Layer: 8
   m_Name: DON_body
   m_TagString: Untagged
@@ -2316,22 +2318,6 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.000000022351742, y: 0.1312565, z: 0.000015497208}
     m_Extent: {x: 0.1025461, y: 0.11245139, z: 0.1275155}
   m_DirtyAABB: 0
---- !u!114 &1559569911
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1559569908}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
-  originalLayer: 0
-  originalMaterials: []
 --- !u!1 &1562874108
 GameObject:
   m_ObjectHideFlags: 0
@@ -2425,43 +2411,6 @@ Transform:
   m_Father: {fileID: 1400535104}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -0.2913711, y: 0.00011798542, z: 90.00282}
---- !u!21 &1628794184
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: TSF Shaders/DonOutline
-  m_Shader: {fileID: 4800000, guid: e194de558c4fdea4aa4517f7cc78b979, type: 3}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats:
-    - _ColorMask: 15
-    - _OutlineWidth: 4
-    - _Stencil: 0
-    - _StencilComp: 8
-    - _StencilOp: 0
-    - _StencilReadMask: 255
-    - _StencilWriteMask: 255
-    - _UseUIAlphaClip: 0
-    - _Volume: 1
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
 --- !u!1 &1650491225
 GameObject:
   m_ObjectHideFlags: 0
@@ -2763,7 +2712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 1628794184}
+  m_Material: {fileID: 822740626}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -3129,7 +3078,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2122323025}
   - component: {fileID: 2122323026}
-  - component: {fileID: 2122323027}
   m_Layer: 8
   m_Name: don_skin
   m_TagString: Untagged
@@ -3242,19 +3190,3 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.000000022351742, y: 0.14119932, z: -0.00059179217}
     m_Extent: {x: 0.10357161, y: 0.103533685, z: 0.09365761}
   m_DirtyAABB: 0
---- !u!114 &2122323027
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2122323024}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
-  originalLayer: 0
-  originalMaterials: []

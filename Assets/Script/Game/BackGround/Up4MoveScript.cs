@@ -1,27 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Up4MoveScript : UpMoveScript
 {
     public SpriteRenderer[] Images2;
-    public Transform MovePanel2;
-
-    protected Queue<Transform> queue2 = new Queue<Transform>();
-    private WaitForSeconds wait = new WaitForSeconds(1f / 80);
     void Start()
     {
-        foreach (SpriteRenderer image in Images)
-            queue.Enqueue(image.transform);
-
-        foreach (SpriteRenderer image in Images2)
-            queue2.Enqueue(image.transform);
-
-        StartCoroutine(Move());
-        if (MovePanel2 != null)
-            StartCoroutine(Move2());
     }
-
+    /*
+    protected Queue<Transform> queue2 = new Queue<Transform>();
+    private WaitForSeconds wait = new WaitForSeconds(1f / 80);
     IEnumerator Move()
     {
         int count = 0;
@@ -63,7 +50,7 @@ public class Up4MoveScript : UpMoveScript
             }
         }
     }
-
+    */
     public override void Clear(bool clear)
     {
         foreach (SpriteRenderer image in Images)

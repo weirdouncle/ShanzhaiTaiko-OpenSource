@@ -9,7 +9,6 @@ tpsheetFileNames:
 - Assets/Texture/BackGround/Clear/Clear1.tpsheet
 - Assets/Texture/BackGround/Foot/foot.tpsheet
 - Assets/Texture/BackGround/Max/Max.tpsheet
-- Assets/Texture/BackGround/Up/up_bg_1.tpsheet
 - Assets/Texture/CosRoom/cos_room.tpsheet
 - Assets/Texture/Dancer/Type1/dancer_unagi2_01.tpsheet
 - Assets/Texture/Dancer/Type1/dancer_unagi2_02.tpsheet
@@ -62,7 +61,6 @@ textureFileNames:
 - Assets/Texture/BackGround/Clear/Clear1.png
 - Assets/Texture/BackGround/Foot/foot.png
 - Assets/Texture/BackGround/Max/Max.png
-- Assets/Texture/BackGround/Up/up_bg_1.png
 - Assets/Texture/CosRoom/cos_room.png
 - Assets/Texture/Dancer/Type1/dancer_unagi2_01.png
 - Assets/Texture/Dancer/Type1/dancer_unagi2_02.png
@@ -108,7 +106,6 @@ textureFileNames:
 - Assets/Texture/Vertical/vertical_pics.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
-- 
 - 
 - 
 - 
