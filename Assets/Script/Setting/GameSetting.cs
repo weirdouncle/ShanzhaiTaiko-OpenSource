@@ -1608,19 +1608,38 @@ public class Record : DataTable
     }
 
     public void UpdateScore(string song, string player, Difficulty difficulty, bool clear, bool full_combo, int score, int perfect,
-        int good, int bad, int max_combo, int max_hits, int rank)
+           int good, int bad, int max_combo, int max_hits, int rank)
     {
         string _song = song.Replace("'", "''");
         DataRow[] rows = Select(string.Format("title = '{0}' and difficulty = {1} and mode = {2}", _song, (int)difficulty, GameSetting.Config.ScoreMode));
         bool add = false;
         if (rows.Length > 0)
         {
-            if (int.Parse(rows[0]["score"].ToString()) < score)
+            bool old_clear = bool.Parse(rows[0]["clear"].ToString());
+            bool old_full_combo = bool.Parse(rows[0]["full_combo"].ToString());
+            int old_rank = int.Parse(rows[0]["rank"].ToString());
+            int old_score = int.Parse(rows[0]["score"].ToString());
+            if (old_score < score || (!old_clear && clear) || (!old_full_combo && full_combo) || rank > old_rank)
             {
+                add = true;
+                if (old_score > score)
+                {
+                    score = int.Parse(rows[0]["score"].ToString());
+                    perfect = int.Parse(rows[0]["perfect"].ToString());
+                    good = int.Parse(rows[0]["good"].ToString());
+                    bad = int.Parse(rows[0]["bad"].ToString());
+                    max_combo = int.Parse(rows[0]["max_combo"].ToString());
+                    max_hits = int.Parse(rows[0]["max_hits"].ToString());
+                }
+            }
+
+            if (add)
+            {
+                clear = clear || old_clear;
+                full_combo = full_combo || old_full_combo;
+                rank = Math.Max(rank, old_rank);
                 foreach (DataRow row in rows)
                     Rows.Remove(row);
-
-                add = true;
             }
         }
         else
