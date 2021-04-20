@@ -1,5 +1,5 @@
 # ShanzhaiTaiko-OpenSource
-用UNITY3D制作的山寨太鼓达人
+用UNITY3D制作的山寨太鼓达人游戏taiko no tatsujin
 
 说明：
 
@@ -19,3 +19,6 @@ https://www.criware.com/
 Newtonsoft.Json
 SharpDX
 SharpDX.DirectInput
+
+7、完整版演示视频
+https://www.bilibili.com/video/BV18K411w7RT/
