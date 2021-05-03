@@ -542,6 +542,8 @@ public class CriAtomSource : CriMonoBehaviour
 
 	void OnDestroy()
 	{
+        if (custom_acb != null)
+            custom_acb.Dispose();
 		this.InternalFinalize();
 	}
 
@@ -751,6 +753,30 @@ public class CriAtomSource : CriMonoBehaviour
 
 		this.player.Play();
 	}
+    private CriAtomExAcb custom_acb;
+    public void InitComboVoice()
+    {
+        if (custom_acb != null) custom_acb.Dispose();
+        custom_acb = CriAtom.GetAcb(this.cueSheet);
+        if (this.hasValidPosition == false)
+        {
+            this.SetInitialSourcePosition();
+            this.hasValidPosition = true;
+        }
+    }
+
+    public void PlayComboVoice(string cueName)
+    {
+#if !UNITY_EDITOR && UNITY_ANDROID
+		if (androidUseLowLatencyVoicePool) {
+			this.player.SetSoundRendererType(CriAtomEx.SoundRendererType.Native);
+		} else {
+			this.player.SetSoundRendererType(CriAtomEx.androidDefaultSoundRendererType);
+		}
+#endif
+        this.player.SetCue(custom_acb, cueName);
+        this.player.Play();
+    }
 
     /**
 	 * <summary>Asynchronously starts playing the Cue with the specified Cue name.</summary>

@@ -57,20 +57,18 @@ public class ComboBonusScript : MonoBehaviour
             string acb_name = Player2 ? "Combo2P" : "Combo1P";
             Audio.cueSheet = acb_name;
         }
-
+        Audio.InitComboVoice();
     }
 
     public virtual void Show(int combo)
     {
         if (!auto)
         {
-            Audio.cueName = string.Format("{0}combo", combo);
-            Audio.Play();
+            Audio.PlayComboVoice(string.Format("{0}combo", combo));
         }
         else
         {
-            Audio.cueName = Math.Min(1500, combo).ToString();
-            Audio.Play();
+            Audio.PlayComboVoice(Math.Min(1500, combo).ToString());
         }
 
         if (combo > 50)
